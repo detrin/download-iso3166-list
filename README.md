@@ -22,3 +22,19 @@ The `countries.json` list was generated with
 ```
 docker run --rm -it my-scraper-app -m slow -t 60 | jq 'sort_by(.Numeric)' > countries.json
 ```
+
+CLI options
+```
+Usage:
+  main [OPTIONS]
+
+Application Options:
+  -m, --mode=        Set the run mode (options: fast, normal, slow) (default: normal)
+  -s, --show-window  Show browser window for debugging
+  -v, --version      Show version information
+  -t, --timeout=     Timeout for the entire scraping session in seconds (default: 60)
+  -h, --help         Show help message
+
+Help Options:
+  -h, --help         Show this help message
+```
