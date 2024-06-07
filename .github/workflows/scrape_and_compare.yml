@@ -4,9 +4,8 @@ permissions: write-all
 
 on:
   schedule:
-    # - cron: "0 8 * * 1" # Runs every Monday at 08:00 UTC
-    - cron: "0 * * * *"
-  workflow_dispatch: # Allows manual triggering of the workflow
+    - cron: "0 8 * * 1"
+  workflow_dispatch: 
 
 jobs:
   scrape:
