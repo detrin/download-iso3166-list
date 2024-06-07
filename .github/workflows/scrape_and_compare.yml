@@ -75,7 +75,6 @@ jobs:
           target_branch: main
           title: My pull request
           body: "**Automated pull request**"
-          reviewer: detrin
           assignee: detrin
           label: updating
         if: steps.check_diff.outputs.files_differs == 'true'
