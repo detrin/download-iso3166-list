@@ -58,10 +58,13 @@ jobs:
         id: commit_changes
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: GitHub Actions
+          author_email: noreply@github.com
           message: "Update countries.json"
           new_branch: update-countries-json
           add: 'countries.json'
           github_token: ${{ secrets.GH_PAT }}
+          push: --force
         if: steps.check_diff.outputs.files_differs == 'true'
 
       - name: Create Pull Request
