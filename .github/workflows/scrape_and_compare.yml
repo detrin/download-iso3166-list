@@ -1,5 +1,7 @@
 name: Weekly Scrape and Compare
 
+permissions: write-all
+
 on:
   schedule:
     - cron: "0 8 * * 1" # Runs every Monday at 08:00 UTC
@@ -63,7 +65,6 @@ jobs:
           message: "Update countries.json"
           new_branch: update-countries-json
           add: 'countries.json'
-          push: --force --set-upstream origin update-countries-json
         if: steps.check_diff.outputs.files_differs == 'true'
 
       - name: Create Pull Request
