@@ -62,7 +62,10 @@ jobs:
         env:
             GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         if: steps.check_diff.outputs.files_differs == 'true'
-        
+
+      - uses: actions/checkout@v4
+        with:
+          ref: 'update-countries-json'
 
       - name: Commit changes if countries.json differs
         id: commit_changes
