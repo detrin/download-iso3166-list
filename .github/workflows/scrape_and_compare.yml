@@ -48,6 +48,11 @@ jobs:
             echo "::set-output name=files_differs::false"
           fi
 
+      - name: Replace countries.json with countries_new.json
+        if: steps.check_diff.outputs.files_differs == 'true'
+        run: |
+          mv countries_new.json countries.json
+
       - name: Commit changes if countries.json differs
         id: commit_changes
         uses: stefanzweifel/git-auto-commit-action@v5
