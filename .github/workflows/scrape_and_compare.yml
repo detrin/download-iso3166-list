@@ -2,8 +2,7 @@ name: Weekly Scrape and Compare
 
 on:
   schedule:
-    #- cron: '0 8 * * 1' # Runs every Monday at 08:00 UTC
-    - cron: '0 * * * *'
+    - cron: '0 8 * * 1' # Runs every Monday at 08:00 UTC
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -32,12 +31,11 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t download-iso3166-list .
+          docker build -t my-scraper-app .
 
       - name: Run Scraper
         run: |
-          docker run --rm download-iso3166-list --mode slow --timeout 60 > countries_new.json
-          echo "test" >> countries_new.json
+          docker run --rm my-scraper-app --mode slow --timeout 60 > countries_new.json
 
       - name: Check if countries_new.json differs from countries.json
         id: check_diff
@@ -69,4 +67,4 @@ jobs:
             --body "This pull request updates countries.json with the latest data." \
             --base main --head update-countries-json
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}  # Use the PAT secret for authentication
