@@ -44,7 +44,7 @@ jobs:
       - name: Check if countries_new.json differs from countries.json
         id: check_diff
         run: |
-          if [ "$(cat countries.json')" = "$(cat countries.json)" ]; then
+          if cmp -s countries.json countries_new.json; then
             echo "::set-output name=files_differs::false"
           else
             echo "files differ"
