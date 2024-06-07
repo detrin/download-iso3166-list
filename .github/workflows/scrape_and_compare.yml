@@ -61,8 +61,7 @@ jobs:
           message: "Update countries.json"
           new_branch: update-countries-json
           add: 'countries.json'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GH_PAT }}
         if: steps.check_diff.outputs.files_differs == 'true'
 
       - name: Create Pull Request
