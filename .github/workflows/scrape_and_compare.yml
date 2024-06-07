@@ -43,12 +43,11 @@ jobs:
       - name: Check if countries_new.json differs from countries.json
         id: check_diff
         run: |
-          sudo apt-get -y install diffutils
-          if ! diff -q countries_new.json countries.json > /dev/null; then
+          if cmp -s countries.json countries_new.json; then
+            echo "::set-output name=files_differs::false"
+          else
             echo "files differ"
             echo "::set-output name=files_differs::true"
-          else
-            echo "::set-output name=files_differs::false"
           fi
 
       - name: Replace countries.json with countries_new.json
@@ -73,8 +72,9 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
           source_branch: update-countries-json
           target_branch: main
-          title: My pull request
-          body: "**Automated pull request**"
+          title: Updating list of countries
+          body: "This pull request was automatically created from github actions"
           assignee: detrin
           label: updating
+          ignore_users: "restyled"
         if: steps.check_diff.outputs.files_differs == 'true'
