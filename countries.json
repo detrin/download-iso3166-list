@@ -1,1745 +1,1745 @@
 [
-    {
-        "Alpha-2 code": "AF",
-        "Alpha-3 code": "AFG",
-        "English short name": "Afghanistan",
-        "French short name": "Afghanistan (l')",
-        "Numeric": "004"
-    },
-    {
-        "Alpha-2 code": "AL",
-        "Alpha-3 code": "ALB",
-        "English short name": "Albania",
-        "French short name": "Albanie (l')",
-        "Numeric": "008"
-    },
-    {
-        "Alpha-2 code": "DZ",
-        "Alpha-3 code": "DZA",
-        "English short name": "Algeria",
-        "French short name": "Algérie (l')",
-        "Numeric": "012"
-    },
-    {
-        "Alpha-2 code": "AS",
-        "Alpha-3 code": "ASM",
-        "English short name": "American Samoa",
-        "French short name": "Samoa américaines (les)",
-        "Numeric": "016"
-    },
-    {
-        "Alpha-2 code": "AD",
-        "Alpha-3 code": "AND",
-        "English short name": "Andorra",
-        "French short name": "Andorre (l')",
-        "Numeric": "020"
-    },
-    {
-        "Alpha-2 code": "AO",
-        "Alpha-3 code": "AGO",
-        "English short name": "Angola",
-        "French short name": "Angola (l')",
-        "Numeric": "024"
-    },
-    {
-        "Alpha-2 code": "AI",
-        "Alpha-3 code": "AIA",
-        "English short name": "Anguilla",
-        "French short name": "Anguilla",
-        "Numeric": "660"
-    },
-    {
-        "Alpha-2 code": "AQ",
-        "Alpha-3 code": "ATA",
-        "English short name": "Antarctica",
-        "French short name": "Antarctique (l')",
-        "Numeric": "010"
-    },
-    {
-        "Alpha-2 code": "AG",
-        "Alpha-3 code": "ATG",
-        "English short name": "Antigua and Barbuda",
-        "French short name": "Antigua-et-Barbuda",
-        "Numeric": "028"
-    },
-    {
-        "Alpha-2 code": "AR",
-        "Alpha-3 code": "ARG",
-        "English short name": "Argentina",
-        "French short name": "Argentine (l')",
-        "Numeric": "032"
-    },
-    {
-        "Alpha-2 code": "AM",
-        "Alpha-3 code": "ARM",
-        "English short name": "Armenia",
-        "French short name": "Arménie (l')",
-        "Numeric": "051"
-    },
-    {
-        "Alpha-2 code": "AW",
-        "Alpha-3 code": "ABW",
-        "English short name": "Aruba",
-        "French short name": "Aruba",
-        "Numeric": "533"
-    },
-    {
-        "Alpha-2 code": "AU",
-        "Alpha-3 code": "AUS",
-        "English short name": "Australia",
-        "French short name": "Australie (l')",
-        "Numeric": "036"
-    },
-    {
-        "Alpha-2 code": "AT",
-        "Alpha-3 code": "AUT",
-        "English short name": "Austria",
-        "French short name": "Autriche (l')",
-        "Numeric": "040"
-    },
-    {
-        "Alpha-2 code": "AZ",
-        "Alpha-3 code": "AZE",
-        "English short name": "Azerbaijan",
-        "French short name": "Azerbaïdjan (l')",
-        "Numeric": "031"
-    },
-    {
-        "Alpha-2 code": "BS",
-        "Alpha-3 code": "BHS",
-        "English short name": "Bahamas (the)",
-        "French short name": "Bahamas (les)",
-        "Numeric": "044"
-    },
-    {
-        "Alpha-2 code": "BH",
-        "Alpha-3 code": "BHR",
-        "English short name": "Bahrain",
-        "French short name": "Bahreïn",
-        "Numeric": "048"
-    },
-    {
-        "Alpha-2 code": "BD",
-        "Alpha-3 code": "BGD",
-        "English short name": "Bangladesh",
-        "French short name": "Bangladesh (le)",
-        "Numeric": "050"
-    },
-    {
-        "Alpha-2 code": "BB",
-        "Alpha-3 code": "BRB",
-        "English short name": "Barbados",
-        "French short name": "Barbade (la)",
-        "Numeric": "052"
-    },
-    {
-        "Alpha-2 code": "BY",
-        "Alpha-3 code": "BLR",
-        "English short name": "Belarus",
-        "French short name": "Bélarus (le)",
-        "Numeric": "112"
-    },
-    {
-        "Alpha-2 code": "BE",
-        "Alpha-3 code": "BEL",
-        "English short name": "Belgium",
-        "French short name": "Belgique (la)",
-        "Numeric": "056"
-    },
-    {
-        "Alpha-2 code": "BZ",
-        "Alpha-3 code": "BLZ",
-        "English short name": "Belize",
-        "French short name": "Belize (le)",
-        "Numeric": "084"
-    },
-    {
-        "Alpha-2 code": "BJ",
-        "Alpha-3 code": "BEN",
-        "English short name": "Benin",
-        "French short name": "Bénin (le)",
-        "Numeric": "204"
-    },
-    {
-        "Alpha-2 code": "BM",
-        "Alpha-3 code": "BMU",
-        "English short name": "Bermuda",
-        "French short name": "Bermudes (les)",
-        "Numeric": "060"
-    },
-    {
-        "Alpha-2 code": "BT",
-        "Alpha-3 code": "BTN",
-        "English short name": "Bhutan",
-        "French short name": "Bhoutan (le)",
-        "Numeric": "064"
-    },
-    {
-        "Alpha-2 code": "BO",
-        "Alpha-3 code": "BOL",
-        "English short name": "Bolivia (Plurinational State of)",
-        "French short name": "Bolivie (État plurinational de)",
-        "Numeric": "068"
-    },
-    {
-        "Alpha-2 code": "BQ",
-        "Alpha-3 code": "BES",
-        "English short name": "Bonaire, Sint Eustatius and Saba",
-        "French short name": "Bonaire, Saint-Eustache et Saba",
-        "Numeric": "535"
-    },
-    {
-        "Alpha-2 code": "BA",
-        "Alpha-3 code": "BIH",
-        "English short name": "Bosnia and Herzegovina",
-        "French short name": "Bosnie-Herzégovine (la)",
-        "Numeric": "070"
-    },
-    {
-        "Alpha-2 code": "BW",
-        "Alpha-3 code": "BWA",
-        "English short name": "Botswana",
-        "French short name": "Botswana (le)",
-        "Numeric": "072"
-    },
-    {
-        "Alpha-2 code": "BV",
-        "Alpha-3 code": "BVT",
-        "English short name": "Bouvet Island",
-        "French short name": "Bouvet (l'Île)",
-        "Numeric": "074"
-    },
-    {
-        "Alpha-2 code": "BR",
-        "Alpha-3 code": "BRA",
-        "English short name": "Brazil",
-        "French short name": "Brésil (le)",
-        "Numeric": "076"
-    },
-    {
-        "Alpha-2 code": "IO",
-        "Alpha-3 code": "IOT",
-        "English short name": "British Indian Ocean Territory (the)",
-        "French short name": "Indien (le Territoire britannique de l'océan)",
-        "Numeric": "086"
-    },
-    {
-        "Alpha-2 code": "BN",
-        "Alpha-3 code": "BRN",
-        "English short name": "Brunei Darussalam",
-        "French short name": "Brunéi Darussalam (le)",
-        "Numeric": "096"
-    },
-    {
-        "Alpha-2 code": "BG",
-        "Alpha-3 code": "BGR",
-        "English short name": "Bulgaria",
-        "French short name": "Bulgarie (la)",
-        "Numeric": "100"
-    },
-    {
-        "Alpha-2 code": "BF",
-        "Alpha-3 code": "BFA",
-        "English short name": "Burkina Faso",
-        "French short name": "Burkina Faso (le)",
-        "Numeric": "854"
-    },
-    {
-        "Alpha-2 code": "BI",
-        "Alpha-3 code": "BDI",
-        "English short name": "Burundi",
-        "French short name": "Burundi (le)",
-        "Numeric": "108"
-    },
-    {
-        "Alpha-2 code": "CV",
-        "Alpha-3 code": "CPV",
-        "English short name": "Cabo Verde",
-        "French short name": "Cabo Verde",
-        "Numeric": "132"
-    },
-    {
-        "Alpha-2 code": "KH",
-        "Alpha-3 code": "KHM",
-        "English short name": "Cambodia",
-        "French short name": "Cambodge (le)",
-        "Numeric": "116"
-    },
-    {
-        "Alpha-2 code": "CM",
-        "Alpha-3 code": "CMR",
-        "English short name": "Cameroon",
-        "French short name": "Cameroun (le)",
-        "Numeric": "120"
-    },
-    {
-        "Alpha-2 code": "CA",
-        "Alpha-3 code": "CAN",
-        "English short name": "Canada",
-        "French short name": "Canada (le)",
-        "Numeric": "124"
-    },
-    {
-        "Alpha-2 code": "KY",
-        "Alpha-3 code": "CYM",
-        "English short name": "Cayman Islands (the)",
-        "French short name": "Caïmans (les Îles)",
-        "Numeric": "136"
-    },
-    {
-        "Alpha-2 code": "CF",
-        "Alpha-3 code": "CAF",
-        "English short name": "Central African Republic (the)",
-        "French short name": "République centrafricaine (la)",
-        "Numeric": "140"
-    },
-    {
-        "Alpha-2 code": "TD",
-        "Alpha-3 code": "TCD",
-        "English short name": "Chad",
-        "French short name": "Tchad (le)",
-        "Numeric": "148"
-    },
-    {
-        "Alpha-2 code": "CL",
-        "Alpha-3 code": "CHL",
-        "English short name": "Chile",
-        "French short name": "Chili (le)",
-        "Numeric": "152"
-    },
-    {
-        "Alpha-2 code": "CN",
-        "Alpha-3 code": "CHN",
-        "English short name": "China",
-        "French short name": "Chine (la)",
-        "Numeric": "156"
-    },
-    {
-        "Alpha-2 code": "CX",
-        "Alpha-3 code": "CXR",
-        "English short name": "Christmas Island",
-        "French short name": "Christmas (l'Île)",
-        "Numeric": "162"
-    },
-    {
-        "Alpha-2 code": "CC",
-        "Alpha-3 code": "CCK",
-        "English short name": "Cocos (Keeling) Islands (the)",
-        "French short name": "Cocos (les Îles)/ Keeling (les Îles)",
-        "Numeric": "166"
-    },
-    {
-        "Alpha-2 code": "CO",
-        "Alpha-3 code": "COL",
-        "English short name": "Colombia",
-        "French short name": "Colombie (la)",
-        "Numeric": "170"
-    },
-    {
-        "Alpha-2 code": "KM",
-        "Alpha-3 code": "COM",
-        "English short name": "Comoros (the)",
-        "French short name": "Comores (les)",
-        "Numeric": "174"
-    },
-    {
-        "Alpha-2 code": "CD",
-        "Alpha-3 code": "COD",
-        "English short name": "Congo (the Democratic Republic of the)",
-        "French short name": "Congo (la République démocratique du)",
-        "Numeric": "180"
-    },
-    {
-        "Alpha-2 code": "CG",
-        "Alpha-3 code": "COG",
-        "English short name": "Congo (the)",
-        "French short name": "Congo (le)",
-        "Numeric": "178"
-    },
-    {
-        "Alpha-2 code": "CK",
-        "Alpha-3 code": "COK",
-        "English short name": "Cook Islands (the)",
-        "French short name": "Cook (les Îles)",
-        "Numeric": "184"
-    },
-    {
-        "Alpha-2 code": "CR",
-        "Alpha-3 code": "CRI",
-        "English short name": "Costa Rica",
-        "French short name": "Costa Rica (le)",
-        "Numeric": "188"
-    },
-    {
-        "Alpha-2 code": "HR",
-        "Alpha-3 code": "HRV",
-        "English short name": "Croatia",
-        "French short name": "Croatie (la)",
-        "Numeric": "191"
-    },
-    {
-        "Alpha-2 code": "CU",
-        "Alpha-3 code": "CUB",
-        "English short name": "Cuba",
-        "French short name": "Cuba",
-        "Numeric": "192"
-    },
-    {
-        "Alpha-2 code": "CW",
-        "Alpha-3 code": "CUW",
-        "English short name": "Curaçao",
-        "French short name": "Curaçao",
-        "Numeric": "531"
-    },
-    {
-        "Alpha-2 code": "CY",
-        "Alpha-3 code": "CYP",
-        "English short name": "Cyprus",
-        "French short name": "Chypre",
-        "Numeric": "196"
-    },
-    {
-        "Alpha-2 code": "CZ",
-        "Alpha-3 code": "CZE",
-        "English short name": "Czechia",
-        "French short name": "Tchéquie (la)",
-        "Numeric": "203"
-    },
-    {
-        "Alpha-2 code": "CI",
-        "Alpha-3 code": "CIV",
-        "English short name": "Côte d'Ivoire",
-        "French short name": "Côte d'Ivoire (la)",
-        "Numeric": "384"
-    },
-    {
-        "Alpha-2 code": "DK",
-        "Alpha-3 code": "DNK",
-        "English short name": "Denmark",
-        "French short name": "Danemark (le)",
-        "Numeric": "208"
-    },
-    {
-        "Alpha-2 code": "DJ",
-        "Alpha-3 code": "DJI",
-        "English short name": "Djibouti",
-        "French short name": "Djibouti",
-        "Numeric": "262"
-    },
-    {
-        "Alpha-2 code": "DM",
-        "Alpha-3 code": "DMA",
-        "English short name": "Dominica",
-        "French short name": "Dominique (la)",
-        "Numeric": "212"
-    },
-    {
-        "Alpha-2 code": "DO",
-        "Alpha-3 code": "DOM",
-        "English short name": "Dominican Republic (the)",
-        "French short name": "dominicaine (la République)",
-        "Numeric": "214"
-    },
-    {
-        "Alpha-2 code": "EC",
-        "Alpha-3 code": "ECU",
-        "English short name": "Ecuador",
-        "French short name": "Équateur (l')",
-        "Numeric": "218"
-    },
-    {
-        "Alpha-2 code": "EG",
-        "Alpha-3 code": "EGY",
-        "English short name": "Egypt",
-        "French short name": "Égypte (l')",
-        "Numeric": "818"
-    },
-    {
-        "Alpha-2 code": "SV",
-        "Alpha-3 code": "SLV",
-        "English short name": "El Salvador",
-        "French short name": "El Salvador",
-        "Numeric": "222"
-    },
-    {
-        "Alpha-2 code": "GQ",
-        "Alpha-3 code": "GNQ",
-        "English short name": "Equatorial Guinea",
-        "French short name": "Guinée équatoriale (la)",
-        "Numeric": "226"
-    },
-    {
-        "Alpha-2 code": "ER",
-        "Alpha-3 code": "ERI",
-        "English short name": "Eritrea",
-        "French short name": "Érythrée (l')",
-        "Numeric": "232"
-    },
-    {
-        "Alpha-2 code": "EE",
-        "Alpha-3 code": "EST",
-        "English short name": "Estonia",
-        "French short name": "Estonie (l')",
-        "Numeric": "233"
-    },
-    {
-        "Alpha-2 code": "SZ",
-        "Alpha-3 code": "SWZ",
-        "English short name": "Eswatini",
-        "French short name": "Eswatini (l')",
-        "Numeric": "748"
-    },
-    {
-        "Alpha-2 code": "ET",
-        "Alpha-3 code": "ETH",
-        "English short name": "Ethiopia",
-        "French short name": "Éthiopie (l')",
-        "Numeric": "231"
-    },
-    {
-        "Alpha-2 code": "FK",
-        "Alpha-3 code": "FLK",
-        "English short name": "Falkland Islands (the) [Malvinas]",
-        "French short name": "Falkland (les Îles)/Malouines (les Îles)",
-        "Numeric": "238"
-    },
-    {
-        "Alpha-2 code": "FO",
-        "Alpha-3 code": "FRO",
-        "English short name": "Faroe Islands (the)",
-        "French short name": "Féroé (les Îles)",
-        "Numeric": "234"
-    },
-    {
-        "Alpha-2 code": "FJ",
-        "Alpha-3 code": "FJI",
-        "English short name": "Fiji",
-        "French short name": "Fidji (les)",
-        "Numeric": "242"
-    },
-    {
-        "Alpha-2 code": "FI",
-        "Alpha-3 code": "FIN",
-        "English short name": "Finland",
-        "French short name": "Finlande (la)",
-        "Numeric": "246"
-    },
-    {
-        "Alpha-2 code": "FR",
-        "Alpha-3 code": "FRA",
-        "English short name": "France",
-        "French short name": "France (la)",
-        "Numeric": "250"
-    },
-    {
-        "Alpha-2 code": "GF",
-        "Alpha-3 code": "GUF",
-        "English short name": "French Guiana",
-        "French short name": "Guyane française (la )",
-        "Numeric": "254"
-    },
-    {
-        "Alpha-2 code": "PF",
-        "Alpha-3 code": "PYF",
-        "English short name": "French Polynesia",
-        "French short name": "Polynésie française (la)",
-        "Numeric": "258"
-    },
-    {
-        "Alpha-2 code": "TF",
-        "Alpha-3 code": "ATF",
-        "English short name": "French Southern Territories (the)",
-        "French short name": "Terres australes françaises (les)",
-        "Numeric": "260"
-    },
-    {
-        "Alpha-2 code": "GA",
-        "Alpha-3 code": "GAB",
-        "English short name": "Gabon",
-        "French short name": "Gabon (le)",
-        "Numeric": "266"
-    },
-    {
-        "Alpha-2 code": "GM",
-        "Alpha-3 code": "GMB",
-        "English short name": "Gambia (the)",
-        "French short name": "Gambie (la)",
-        "Numeric": "270"
-    },
-    {
-        "Alpha-2 code": "GE",
-        "Alpha-3 code": "GEO",
-        "English short name": "Georgia",
-        "French short name": "Géorgie (la)",
-        "Numeric": "268"
-    },
-    {
-        "Alpha-2 code": "DE",
-        "Alpha-3 code": "DEU",
-        "English short name": "Germany",
-        "French short name": "Allemagne (l')",
-        "Numeric": "276"
-    },
-    {
-        "Alpha-2 code": "GH",
-        "Alpha-3 code": "GHA",
-        "English short name": "Ghana",
-        "French short name": "Ghana (le)",
-        "Numeric": "288"
-    },
-    {
-        "Alpha-2 code": "GI",
-        "Alpha-3 code": "GIB",
-        "English short name": "Gibraltar",
-        "French short name": "Gibraltar",
-        "Numeric": "292"
-    },
-    {
-        "Alpha-2 code": "GR",
-        "Alpha-3 code": "GRC",
-        "English short name": "Greece",
-        "French short name": "Grèce (la)",
-        "Numeric": "300"
-    },
-    {
-        "Alpha-2 code": "GL",
-        "Alpha-3 code": "GRL",
-        "English short name": "Greenland",
-        "French short name": "Groenland (le)",
-        "Numeric": "304"
-    },
-    {
-        "Alpha-2 code": "GD",
-        "Alpha-3 code": "GRD",
-        "English short name": "Grenada",
-        "French short name": "Grenade (la)",
-        "Numeric": "308"
-    },
-    {
-        "Alpha-2 code": "GP",
-        "Alpha-3 code": "GLP",
-        "English short name": "Guadeloupe",
-        "French short name": "Guadeloupe (la)",
-        "Numeric": "312"
-    },
-    {
-        "Alpha-2 code": "GU",
-        "Alpha-3 code": "GUM",
-        "English short name": "Guam",
-        "French short name": "Guam",
-        "Numeric": "316"
-    },
-    {
-        "Alpha-2 code": "GT",
-        "Alpha-3 code": "GTM",
-        "English short name": "Guatemala",
-        "French short name": "Guatemala (le)",
-        "Numeric": "320"
-    },
-    {
-        "Alpha-2 code": "GG",
-        "Alpha-3 code": "GGY",
-        "English short name": "Guernsey",
-        "French short name": "Guernesey",
-        "Numeric": "831"
-    },
-    {
-        "Alpha-2 code": "GN",
-        "Alpha-3 code": "GIN",
-        "English short name": "Guinea",
-        "French short name": "Guinée (la)",
-        "Numeric": "324"
-    },
-    {
-        "Alpha-2 code": "GW",
-        "Alpha-3 code": "GNB",
-        "English short name": "Guinea-Bissau",
-        "French short name": "Guinée-Bissau (la)",
-        "Numeric": "624"
-    },
-    {
-        "Alpha-2 code": "GY",
-        "Alpha-3 code": "GUY",
-        "English short name": "Guyana",
-        "French short name": "Guyana (le)",
-        "Numeric": "328"
-    },
-    {
-        "Alpha-2 code": "HT",
-        "Alpha-3 code": "HTI",
-        "English short name": "Haiti",
-        "French short name": "Haïti",
-        "Numeric": "332"
-    },
-    {
-        "Alpha-2 code": "HM",
-        "Alpha-3 code": "HMD",
-        "English short name": "Heard Island and McDonald Islands",
-        "French short name": "Heard-et-Îles MacDonald (l'Île)",
-        "Numeric": "334"
-    },
-    {
-        "Alpha-2 code": "VA",
-        "Alpha-3 code": "VAT",
-        "English short name": "Holy See (the)",
-        "French short name": "Saint-Siège (le)",
-        "Numeric": "336"
-    },
-    {
-        "Alpha-2 code": "HN",
-        "Alpha-3 code": "HND",
-        "English short name": "Honduras",
-        "French short name": "Honduras (le)",
-        "Numeric": "340"
-    },
-    {
-        "Alpha-2 code": "HK",
-        "Alpha-3 code": "HKG",
-        "English short name": "Hong Kong",
-        "French short name": "Hong Kong",
-        "Numeric": "344"
-    },
-    {
-        "Alpha-2 code": "HU",
-        "Alpha-3 code": "HUN",
-        "English short name": "Hungary",
-        "French short name": "Hongrie (la)",
-        "Numeric": "348"
-    },
-    {
-        "Alpha-2 code": "IS",
-        "Alpha-3 code": "ISL",
-        "English short name": "Iceland",
-        "French short name": "Islande (l')",
-        "Numeric": "352"
-    },
-    {
-        "Alpha-2 code": "IN",
-        "Alpha-3 code": "IND",
-        "English short name": "India",
-        "French short name": "Inde (l')",
-        "Numeric": "356"
-    },
-    {
-        "Alpha-2 code": "ID",
-        "Alpha-3 code": "IDN",
-        "English short name": "Indonesia",
-        "French short name": "Indonésie (l')",
-        "Numeric": "360"
-    },
-    {
-        "Alpha-2 code": "IR",
-        "Alpha-3 code": "IRN",
-        "English short name": "Iran (Islamic Republic of)",
-        "French short name": "Iran (République Islamique d')",
-        "Numeric": "364"
-    },
-    {
-        "Alpha-2 code": "IQ",
-        "Alpha-3 code": "IRQ",
-        "English short name": "Iraq",
-        "French short name": "Iraq (l')",
-        "Numeric": "368"
-    },
-    {
-        "Alpha-2 code": "IE",
-        "Alpha-3 code": "IRL",
-        "English short name": "Ireland",
-        "French short name": "Irlande (l')",
-        "Numeric": "372"
-    },
-    {
-        "Alpha-2 code": "IM",
-        "Alpha-3 code": "IMN",
-        "English short name": "Isle of Man",
-        "French short name": "Île de Man",
-        "Numeric": "833"
-    },
-    {
-        "Alpha-2 code": "IL",
-        "Alpha-3 code": "ISR",
-        "English short name": "Israel",
-        "French short name": "Israël",
-        "Numeric": "376"
-    },
-    {
-        "Alpha-2 code": "IT",
-        "Alpha-3 code": "ITA",
-        "English short name": "Italy",
-        "French short name": "Italie (l')",
-        "Numeric": "380"
-    },
-    {
-        "Alpha-2 code": "JM",
-        "Alpha-3 code": "JAM",
-        "English short name": "Jamaica",
-        "French short name": "Jamaïque (la)",
-        "Numeric": "388"
-    },
-    {
-        "Alpha-2 code": "JP",
-        "Alpha-3 code": "JPN",
-        "English short name": "Japan",
-        "French short name": "Japon (le)",
-        "Numeric": "392"
-    },
-    {
-        "Alpha-2 code": "JE",
-        "Alpha-3 code": "JEY",
-        "English short name": "Jersey",
-        "French short name": "Jersey",
-        "Numeric": "832"
-    },
-    {
-        "Alpha-2 code": "JO",
-        "Alpha-3 code": "JOR",
-        "English short name": "Jordan",
-        "French short name": "Jordanie (la)",
-        "Numeric": "400"
-    },
-    {
-        "Alpha-2 code": "KZ",
-        "Alpha-3 code": "KAZ",
-        "English short name": "Kazakhstan",
-        "French short name": "Kazakhstan (le)",
-        "Numeric": "398"
-    },
-    {
-        "Alpha-2 code": "KE",
-        "Alpha-3 code": "KEN",
-        "English short name": "Kenya",
-        "French short name": "Kenya (le)",
-        "Numeric": "404"
-    },
-    {
-        "Alpha-2 code": "KI",
-        "Alpha-3 code": "KIR",
-        "English short name": "Kiribati",
-        "French short name": "Kiribati",
-        "Numeric": "296"
-    },
-    {
-        "Alpha-2 code": "KP",
-        "Alpha-3 code": "PRK",
-        "English short name": "Korea (the Democratic People's Republic of)",
-        "French short name": "Corée (la République populaire démocratique de)",
-        "Numeric": "408"
-    },
-    {
-        "Alpha-2 code": "KR",
-        "Alpha-3 code": "KOR",
-        "English short name": "Korea (the Republic of)",
-        "French short name": "Corée (la République de)",
-        "Numeric": "410"
-    },
-    {
-        "Alpha-2 code": "KW",
-        "Alpha-3 code": "KWT",
-        "English short name": "Kuwait",
-        "French short name": "Koweït (le)",
-        "Numeric": "414"
-    },
-    {
-        "Alpha-2 code": "KG",
-        "Alpha-3 code": "KGZ",
-        "English short name": "Kyrgyzstan",
-        "French short name": "Kirghizistan (le)",
-        "Numeric": "417"
-    },
-    {
-        "Alpha-2 code": "LA",
-        "Alpha-3 code": "LAO",
-        "English short name": "Lao People's Democratic Republic (the)",
-        "French short name": "Lao (la République démocratique populaire)",
-        "Numeric": "418"
-    },
-    {
-        "Alpha-2 code": "LV",
-        "Alpha-3 code": "LVA",
-        "English short name": "Latvia",
-        "French short name": "Lettonie (la)",
-        "Numeric": "428"
-    },
-    {
-        "Alpha-2 code": "LB",
-        "Alpha-3 code": "LBN",
-        "English short name": "Lebanon",
-        "French short name": "Liban (le)",
-        "Numeric": "422"
-    },
-    {
-        "Alpha-2 code": "LS",
-        "Alpha-3 code": "LSO",
-        "English short name": "Lesotho",
-        "French short name": "Lesotho (le)",
-        "Numeric": "426"
-    },
-    {
-        "Alpha-2 code": "LR",
-        "Alpha-3 code": "LBR",
-        "English short name": "Liberia",
-        "French short name": "Libéria (le)",
-        "Numeric": "430"
-    },
-    {
-        "Alpha-2 code": "LY",
-        "Alpha-3 code": "LBY",
-        "English short name": "Libya",
-        "French short name": "Libye (la)",
-        "Numeric": "434"
-    },
-    {
-        "Alpha-2 code": "LI",
-        "Alpha-3 code": "LIE",
-        "English short name": "Liechtenstein",
-        "French short name": "Liechtenstein (le)",
-        "Numeric": "438"
-    },
-    {
-        "Alpha-2 code": "LT",
-        "Alpha-3 code": "LTU",
-        "English short name": "Lithuania",
-        "French short name": "Lituanie (la)",
-        "Numeric": "440"
-    },
-    {
-        "Alpha-2 code": "LU",
-        "Alpha-3 code": "LUX",
-        "English short name": "Luxembourg",
-        "French short name": "Luxembourg (le)",
-        "Numeric": "442"
-    },
-    {
-        "Alpha-2 code": "MO",
-        "Alpha-3 code": "MAC",
-        "English short name": "Macao",
-        "French short name": "Macao",
-        "Numeric": "446"
-    },
-    {
-        "Alpha-2 code": "MG",
-        "Alpha-3 code": "MDG",
-        "English short name": "Madagascar",
-        "French short name": "Madagascar",
-        "Numeric": "450"
-    },
-    {
-        "Alpha-2 code": "MW",
-        "Alpha-3 code": "MWI",
-        "English short name": "Malawi",
-        "French short name": "Malawi (le)",
-        "Numeric": "454"
-    },
-    {
-        "Alpha-2 code": "MY",
-        "Alpha-3 code": "MYS",
-        "English short name": "Malaysia",
-        "French short name": "Malaisie (la)",
-        "Numeric": "458"
-    },
-    {
-        "Alpha-2 code": "MV",
-        "Alpha-3 code": "MDV",
-        "English short name": "Maldives",
-        "French short name": "Maldives (les)",
-        "Numeric": "462"
-    },
-    {
-        "Alpha-2 code": "ML",
-        "Alpha-3 code": "MLI",
-        "English short name": "Mali",
-        "French short name": "Mali (le)",
-        "Numeric": "466"
-    },
-    {
-        "Alpha-2 code": "MT",
-        "Alpha-3 code": "MLT",
-        "English short name": "Malta",
-        "French short name": "Malte",
-        "Numeric": "470"
-    },
-    {
-        "Alpha-2 code": "MH",
-        "Alpha-3 code": "MHL",
-        "English short name": "Marshall Islands (the)",
-        "French short name": "Marshall (les Îles)",
-        "Numeric": "584"
-    },
-    {
-        "Alpha-2 code": "MQ",
-        "Alpha-3 code": "MTQ",
-        "English short name": "Martinique",
-        "French short name": "Martinique (la)",
-        "Numeric": "474"
-    },
-    {
-        "Alpha-2 code": "MR",
-        "Alpha-3 code": "MRT",
-        "English short name": "Mauritania",
-        "French short name": "Mauritanie (la)",
-        "Numeric": "478"
-    },
-    {
-        "Alpha-2 code": "MU",
-        "Alpha-3 code": "MUS",
-        "English short name": "Mauritius",
-        "French short name": "Maurice",
-        "Numeric": "480"
-    },
-    {
-        "Alpha-2 code": "YT",
-        "Alpha-3 code": "MYT",
-        "English short name": "Mayotte",
-        "French short name": "Mayotte",
-        "Numeric": "175"
-    },
-    {
-        "Alpha-2 code": "MX",
-        "Alpha-3 code": "MEX",
-        "English short name": "Mexico",
-        "French short name": "Mexique (le)",
-        "Numeric": "484"
-    },
-    {
-        "Alpha-2 code": "FM",
-        "Alpha-3 code": "FSM",
-        "English short name": "Micronesia (Federated States of)",
-        "French short name": "Micronésie (États fédérés de)",
-        "Numeric": "583"
-    },
-    {
-        "Alpha-2 code": "MD",
-        "Alpha-3 code": "MDA",
-        "English short name": "Moldova (the Republic of)",
-        "French short name": "Moldova (la République de)",
-        "Numeric": "498"
-    },
-    {
-        "Alpha-2 code": "MC",
-        "Alpha-3 code": "MCO",
-        "English short name": "Monaco",
-        "French short name": "Monaco",
-        "Numeric": "492"
-    },
-    {
-        "Alpha-2 code": "MN",
-        "Alpha-3 code": "MNG",
-        "English short name": "Mongolia",
-        "French short name": "Mongolie (la)",
-        "Numeric": "496"
-    },
-    {
-        "Alpha-2 code": "ME",
-        "Alpha-3 code": "MNE",
-        "English short name": "Montenegro",
-        "French short name": "Monténégro (le)",
-        "Numeric": "499"
-    },
-    {
-        "Alpha-2 code": "MS",
-        "Alpha-3 code": "MSR",
-        "English short name": "Montserrat",
-        "French short name": "Montserrat",
-        "Numeric": "500"
-    },
-    {
-        "Alpha-2 code": "MA",
-        "Alpha-3 code": "MAR",
-        "English short name": "Morocco",
-        "French short name": "Maroc (le)",
-        "Numeric": "504"
-    },
-    {
-        "Alpha-2 code": "MZ",
-        "Alpha-3 code": "MOZ",
-        "English short name": "Mozambique",
-        "French short name": "Mozambique (le)",
-        "Numeric": "508"
-    },
-    {
-        "Alpha-2 code": "MM",
-        "Alpha-3 code": "MMR",
-        "English short name": "Myanmar",
-        "French short name": "Myanmar (le)",
-        "Numeric": "104"
-    },
-    {
-        "Alpha-2 code": "NA",
-        "Alpha-3 code": "NAM",
-        "English short name": "Namibia",
-        "French short name": "Namibie (la)",
-        "Numeric": "516"
-    },
-    {
-        "Alpha-2 code": "NR",
-        "Alpha-3 code": "NRU",
-        "English short name": "Nauru",
-        "French short name": "Nauru",
-        "Numeric": "520"
-    },
-    {
-        "Alpha-2 code": "NP",
-        "Alpha-3 code": "NPL",
-        "English short name": "Nepal",
-        "French short name": "Népal (le)",
-        "Numeric": "524"
-    },
-    {
-        "Alpha-2 code": "NL",
-        "Alpha-3 code": "NLD",
-        "English short name": "Netherlands (Kingdom of the)",
-        "French short name": "Pays-Bas (Royaume des)",
-        "Numeric": "528"
-    },
-    {
-        "Alpha-2 code": "NC",
-        "Alpha-3 code": "NCL",
-        "English short name": "New Caledonia",
-        "French short name": "Nouvelle-Calédonie (la)",
-        "Numeric": "540"
-    },
-    {
-        "Alpha-2 code": "NZ",
-        "Alpha-3 code": "NZL",
-        "English short name": "New Zealand",
-        "French short name": "Nouvelle-Zélande (la)",
-        "Numeric": "554"
-    },
-    {
-        "Alpha-2 code": "NI",
-        "Alpha-3 code": "NIC",
-        "English short name": "Nicaragua",
-        "French short name": "Nicaragua (le)",
-        "Numeric": "558"
-    },
-    {
-        "Alpha-2 code": "NE",
-        "Alpha-3 code": "NER",
-        "English short name": "Niger (the)",
-        "French short name": "Niger (le)",
-        "Numeric": "562"
-    },
-    {
-        "Alpha-2 code": "NG",
-        "Alpha-3 code": "NGA",
-        "English short name": "Nigeria",
-        "French short name": "Nigéria (le)",
-        "Numeric": "566"
-    },
-    {
-        "Alpha-2 code": "NU",
-        "Alpha-3 code": "NIU",
-        "English short name": "Niue",
-        "French short name": "Niue",
-        "Numeric": "570"
-    },
-    {
-        "Alpha-2 code": "NF",
-        "Alpha-3 code": "NFK",
-        "English short name": "Norfolk Island",
-        "French short name": "Norfolk (l'Île)",
-        "Numeric": "574"
-    },
-    {
-        "Alpha-2 code": "MK",
-        "Alpha-3 code": "MKD",
-        "English short name": "North Macedonia",
-        "French short name": "Macédoine du Nord (la)",
-        "Numeric": "807"
-    },
-    {
-        "Alpha-2 code": "MP",
-        "Alpha-3 code": "MNP",
-        "English short name": "Northern Mariana Islands (the)",
-        "French short name": "Mariannes du Nord (les Îles)",
-        "Numeric": "580"
-    },
-    {
-        "Alpha-2 code": "NO",
-        "Alpha-3 code": "NOR",
-        "English short name": "Norway",
-        "French short name": "Norvège (la)",
-        "Numeric": "578"
-    },
-    {
-        "Alpha-2 code": "OM",
-        "Alpha-3 code": "OMN",
-        "English short name": "Oman",
-        "French short name": "Oman",
-        "Numeric": "512"
-    },
-    {
-        "Alpha-2 code": "PK",
-        "Alpha-3 code": "PAK",
-        "English short name": "Pakistan",
-        "French short name": "Pakistan (le)",
-        "Numeric": "586"
-    },
-    {
-        "Alpha-2 code": "PW",
-        "Alpha-3 code": "PLW",
-        "English short name": "Palau",
-        "French short name": "Palaos (les)",
-        "Numeric": "585"
-    },
-    {
-        "Alpha-2 code": "PS",
-        "Alpha-3 code": "PSE",
-        "English short name": "Palestine, State of",
-        "French short name": "Palestine, État de",
-        "Numeric": "275"
-    },
-    {
-        "Alpha-2 code": "PA",
-        "Alpha-3 code": "PAN",
-        "English short name": "Panama",
-        "French short name": "Panama (le)",
-        "Numeric": "591"
-    },
-    {
-        "Alpha-2 code": "PG",
-        "Alpha-3 code": "PNG",
-        "English short name": "Papua New Guinea",
-        "French short name": "Papouasie-Nouvelle-Guinée (la)",
-        "Numeric": "598"
-    },
-    {
-        "Alpha-2 code": "PY",
-        "Alpha-3 code": "PRY",
-        "English short name": "Paraguay",
-        "French short name": "Paraguay (le)",
-        "Numeric": "600"
-    },
-    {
-        "Alpha-2 code": "PE",
-        "Alpha-3 code": "PER",
-        "English short name": "Peru",
-        "French short name": "Pérou (le)",
-        "Numeric": "604"
-    },
-    {
-        "Alpha-2 code": "PH",
-        "Alpha-3 code": "PHL",
-        "English short name": "Philippines (the)",
-        "French short name": "Philippines (les)",
-        "Numeric": "608"
-    },
-    {
-        "Alpha-2 code": "PN",
-        "Alpha-3 code": "PCN",
-        "English short name": "Pitcairn",
-        "French short name": "Pitcairn",
-        "Numeric": "612"
-    },
-    {
-        "Alpha-2 code": "PL",
-        "Alpha-3 code": "POL",
-        "English short name": "Poland",
-        "French short name": "Pologne (la)",
-        "Numeric": "616"
-    },
-    {
-        "Alpha-2 code": "PT",
-        "Alpha-3 code": "PRT",
-        "English short name": "Portugal",
-        "French short name": "Portugal (le)",
-        "Numeric": "620"
-    },
-    {
-        "Alpha-2 code": "PR",
-        "Alpha-3 code": "PRI",
-        "English short name": "Puerto Rico",
-        "French short name": "Porto Rico",
-        "Numeric": "630"
-    },
-    {
-        "Alpha-2 code": "QA",
-        "Alpha-3 code": "QAT",
-        "English short name": "Qatar",
-        "French short name": "Qatar (le)",
-        "Numeric": "634"
-    },
-    {
-        "Alpha-2 code": "RO",
-        "Alpha-3 code": "ROU",
-        "English short name": "Romania",
-        "French short name": "Roumanie (la)",
-        "Numeric": "642"
-    },
-    {
-        "Alpha-2 code": "RU",
-        "Alpha-3 code": "RUS",
-        "English short name": "Russian Federation (the)",
-        "French short name": "Russie (la Fédération de)",
-        "Numeric": "643"
-    },
-    {
-        "Alpha-2 code": "RW",
-        "Alpha-3 code": "RWA",
-        "English short name": "Rwanda",
-        "French short name": "Rwanda (le)",
-        "Numeric": "646"
-    },
-    {
-        "Alpha-2 code": "RE",
-        "Alpha-3 code": "REU",
-        "English short name": "Réunion",
-        "French short name": "Réunion (La)",
-        "Numeric": "638"
-    },
-    {
-        "Alpha-2 code": "BL",
-        "Alpha-3 code": "BLM",
-        "English short name": "Saint Barthélemy",
-        "French short name": "Saint-Barthélemy",
-        "Numeric": "652"
-    },
-    {
-        "Alpha-2 code": "SH",
-        "Alpha-3 code": "SHN",
-        "English short name": "Saint Helena, Ascension and Tristan da Cunha",
-        "French short name": "Sainte-Hélène, Ascension et Tristan da Cunha",
-        "Numeric": "654"
-    },
-    {
-        "Alpha-2 code": "KN",
-        "Alpha-3 code": "KNA",
-        "English short name": "Saint Kitts and Nevis",
-        "French short name": "Saint-Kitts-et-Nevis",
-        "Numeric": "659"
-    },
-    {
-        "Alpha-2 code": "LC",
-        "Alpha-3 code": "LCA",
-        "English short name": "Saint Lucia",
-        "French short name": "Sainte-Lucie",
-        "Numeric": "662"
-    },
-    {
-        "Alpha-2 code": "MF",
-        "Alpha-3 code": "MAF",
-        "English short name": "Saint Martin (French part)",
-        "French short name": "Saint-Martin (partie française)",
-        "Numeric": "663"
-    },
-    {
-        "Alpha-2 code": "PM",
-        "Alpha-3 code": "SPM",
-        "English short name": "Saint Pierre and Miquelon",
-        "French short name": "Saint-Pierre-et-Miquelon",
-        "Numeric": "666"
-    },
-    {
-        "Alpha-2 code": "VC",
-        "Alpha-3 code": "VCT",
-        "English short name": "Saint Vincent and the Grenadines",
-        "French short name": "Saint-Vincent-et-les Grenadines",
-        "Numeric": "670"
-    },
-    {
-        "Alpha-2 code": "WS",
-        "Alpha-3 code": "WSM",
-        "English short name": "Samoa",
-        "French short name": "Samoa (le)",
-        "Numeric": "882"
-    },
-    {
-        "Alpha-2 code": "SM",
-        "Alpha-3 code": "SMR",
-        "English short name": "San Marino",
-        "French short name": "Saint-Marin",
-        "Numeric": "674"
-    },
-    {
-        "Alpha-2 code": "ST",
-        "Alpha-3 code": "STP",
-        "English short name": "Sao Tome and Principe",
-        "French short name": "Sao Tomé-et-Principe",
-        "Numeric": "678"
-    },
-    {
-        "Alpha-2 code": "SA",
-        "Alpha-3 code": "SAU",
-        "English short name": "Saudi Arabia",
-        "French short name": "Arabie saoudite (l')",
-        "Numeric": "682"
-    },
-    {
-        "Alpha-2 code": "SN",
-        "Alpha-3 code": "SEN",
-        "English short name": "Senegal",
-        "French short name": "Sénégal (le)",
-        "Numeric": "686"
-    },
-    {
-        "Alpha-2 code": "RS",
-        "Alpha-3 code": "SRB",
-        "English short name": "Serbia",
-        "French short name": "Serbie (la)",
-        "Numeric": "688"
-    },
-    {
-        "Alpha-2 code": "SC",
-        "Alpha-3 code": "SYC",
-        "English short name": "Seychelles",
-        "French short name": "Seychelles (les)",
-        "Numeric": "690"
-    },
-    {
-        "Alpha-2 code": "SL",
-        "Alpha-3 code": "SLE",
-        "English short name": "Sierra Leone",
-        "French short name": "Sierra Leone (la)",
-        "Numeric": "694"
-    },
-    {
-        "Alpha-2 code": "SG",
-        "Alpha-3 code": "SGP",
-        "English short name": "Singapore",
-        "French short name": "Singapour",
-        "Numeric": "702"
-    },
-    {
-        "Alpha-2 code": "SX",
-        "Alpha-3 code": "SXM",
-        "English short name": "Sint Maarten (Dutch part)",
-        "French short name": "Saint-Martin (partie néerlandaise)",
-        "Numeric": "534"
-    },
-    {
-        "Alpha-2 code": "SK",
-        "Alpha-3 code": "SVK",
-        "English short name": "Slovakia",
-        "French short name": "Slovaquie (la)",
-        "Numeric": "703"
-    },
-    {
-        "Alpha-2 code": "SI",
-        "Alpha-3 code": "SVN",
-        "English short name": "Slovenia",
-        "French short name": "Slovénie (la)",
-        "Numeric": "705"
-    },
-    {
-        "Alpha-2 code": "SB",
-        "Alpha-3 code": "SLB",
-        "English short name": "Solomon Islands",
-        "French short name": "Salomon (les Îles)",
-        "Numeric": "090"
-    },
-    {
-        "Alpha-2 code": "SO",
-        "Alpha-3 code": "SOM",
-        "English short name": "Somalia",
-        "French short name": "Somalie (la)",
-        "Numeric": "706"
-    },
-    {
-        "Alpha-2 code": "ZA",
-        "Alpha-3 code": "ZAF",
-        "English short name": "South Africa",
-        "French short name": "Afrique du Sud (l')",
-        "Numeric": "710"
-    },
-    {
-        "Alpha-2 code": "GS",
-        "Alpha-3 code": "SGS",
-        "English short name": "South Georgia and the South Sandwich Islands",
-        "French short name": "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
-        "Numeric": "239"
-    },
-    {
-        "Alpha-2 code": "SS",
-        "Alpha-3 code": "SSD",
-        "English short name": "South Sudan",
-        "French short name": "Soudan du Sud (le)",
-        "Numeric": "728"
-    },
-    {
-        "Alpha-2 code": "ES",
-        "Alpha-3 code": "ESP",
-        "English short name": "Spain",
-        "French short name": "Espagne (l')",
-        "Numeric": "724"
-    },
-    {
-        "Alpha-2 code": "LK",
-        "Alpha-3 code": "LKA",
-        "English short name": "Sri Lanka",
-        "French short name": "Sri Lanka",
-        "Numeric": "144"
-    },
-    {
-        "Alpha-2 code": "SD",
-        "Alpha-3 code": "SDN",
-        "English short name": "Sudan (the)",
-        "French short name": "Soudan (le)",
-        "Numeric": "729"
-    },
-    {
-        "Alpha-2 code": "SR",
-        "Alpha-3 code": "SUR",
-        "English short name": "Suriname",
-        "French short name": "Suriname (le)",
-        "Numeric": "740"
-    },
-    {
-        "Alpha-2 code": "SJ",
-        "Alpha-3 code": "SJM",
-        "English short name": "Svalbard and Jan Mayen",
-        "French short name": "Svalbard et l'Île Jan Mayen (le)",
-        "Numeric": "744"
-    },
-    {
-        "Alpha-2 code": "SE",
-        "Alpha-3 code": "SWE",
-        "English short name": "Sweden",
-        "French short name": "Suède (la)",
-        "Numeric": "752"
-    },
-    {
-        "Alpha-2 code": "CH",
-        "Alpha-3 code": "CHE",
-        "English short name": "Switzerland",
-        "French short name": "Suisse (la)",
-        "Numeric": "756"
-    },
-    {
-        "Alpha-2 code": "SY",
-        "Alpha-3 code": "SYR",
-        "English short name": "Syrian Arab Republic (the)",
-        "French short name": "République arabe syrienne (la)",
-        "Numeric": "760"
-    },
-    {
-        "Alpha-2 code": "TW",
-        "Alpha-3 code": "TWN",
-        "English short name": "Taiwan (Province of China)",
-        "French short name": "Taïwan (Province de Chine)",
-        "Numeric": "158"
-    },
-    {
-        "Alpha-2 code": "TJ",
-        "Alpha-3 code": "TJK",
-        "English short name": "Tajikistan",
-        "French short name": "Tadjikistan (le)",
-        "Numeric": "762"
-    },
-    {
-        "Alpha-2 code": "TZ",
-        "Alpha-3 code": "TZA",
-        "English short name": "Tanzania, the United Republic of",
-        "French short name": "Tanzanie (la République-Unie de)",
-        "Numeric": "834"
-    },
-    {
-        "Alpha-2 code": "TH",
-        "Alpha-3 code": "THA",
-        "English short name": "Thailand",
-        "French short name": "Thaïlande (la)",
-        "Numeric": "764"
-    },
-    {
-        "Alpha-2 code": "TL",
-        "Alpha-3 code": "TLS",
-        "English short name": "Timor-Leste",
-        "French short name": "Timor-Leste (le)",
-        "Numeric": "626"
-    },
-    {
-        "Alpha-2 code": "TG",
-        "Alpha-3 code": "TGO",
-        "English short name": "Togo",
-        "French short name": "Togo (le)",
-        "Numeric": "768"
-    },
-    {
-        "Alpha-2 code": "TK",
-        "Alpha-3 code": "TKL",
-        "English short name": "Tokelau",
-        "French short name": "Tokelau (les)",
-        "Numeric": "772"
-    },
-    {
-        "Alpha-2 code": "TO",
-        "Alpha-3 code": "TON",
-        "English short name": "Tonga",
-        "French short name": "Tonga (les)",
-        "Numeric": "776"
-    },
-    {
-        "Alpha-2 code": "TT",
-        "Alpha-3 code": "TTO",
-        "English short name": "Trinidad and Tobago",
-        "French short name": "Trinité-et-Tobago (la)",
-        "Numeric": "780"
-    },
-    {
-        "Alpha-2 code": "TN",
-        "Alpha-3 code": "TUN",
-        "English short name": "Tunisia",
-        "French short name": "Tunisie (la)",
-        "Numeric": "788"
-    },
-    {
-        "Alpha-2 code": "TM",
-        "Alpha-3 code": "TKM",
-        "English short name": "Turkmenistan",
-        "French short name": "Turkménistan (le)",
-        "Numeric": "795"
-    },
-    {
-        "Alpha-2 code": "TC",
-        "Alpha-3 code": "TCA",
-        "English short name": "Turks and Caicos Islands (the)",
-        "French short name": "Turks-et-Caïcos (les Îles)",
-        "Numeric": "796"
-    },
-    {
-        "Alpha-2 code": "TV",
-        "Alpha-3 code": "TUV",
-        "English short name": "Tuvalu",
-        "French short name": "Tuvalu (les)",
-        "Numeric": "798"
-    },
-    {
-        "Alpha-2 code": "TR",
-        "Alpha-3 code": "TUR",
-        "English short name": "Türkiye",
-        "French short name": "Türkiye (la)",
-        "Numeric": "792"
-    },
-    {
-        "Alpha-2 code": "UG",
-        "Alpha-3 code": "UGA",
-        "English short name": "Uganda",
-        "French short name": "Ouganda (l')",
-        "Numeric": "800"
-    },
-    {
-        "Alpha-2 code": "UA",
-        "Alpha-3 code": "UKR",
-        "English short name": "Ukraine",
-        "French short name": "Ukraine (l')",
-        "Numeric": "804"
-    },
-    {
-        "Alpha-2 code": "AE",
-        "Alpha-3 code": "ARE",
-        "English short name": "United Arab Emirates (the)",
-        "French short name": "Émirats arabes unis (les)",
-        "Numeric": "784"
-    },
-    {
-        "Alpha-2 code": "GB",
-        "Alpha-3 code": "GBR",
-        "English short name": "United Kingdom of Great Britain and Northern Ireland (the)",
-        "French short name": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
-        "Numeric": "826"
-    },
-    {
-        "Alpha-2 code": "UM",
-        "Alpha-3 code": "UMI",
-        "English short name": "United States Minor Outlying Islands (the)",
-        "French short name": "Îles mineures éloignées des États-Unis (les)",
-        "Numeric": "581"
-    },
-    {
-        "Alpha-2 code": "US",
-        "Alpha-3 code": "USA",
-        "English short name": "United States of America (the)",
-        "French short name": "États-Unis d'Amérique (les)",
-        "Numeric": "840"
-    },
-    {
-        "Alpha-2 code": "UY",
-        "Alpha-3 code": "URY",
-        "English short name": "Uruguay",
-        "French short name": "Uruguay (l')",
-        "Numeric": "858"
-    },
-    {
-        "Alpha-2 code": "UZ",
-        "Alpha-3 code": "UZB",
-        "English short name": "Uzbekistan",
-        "French short name": "Ouzbékistan (l')",
-        "Numeric": "860"
-    },
-    {
-        "Alpha-2 code": "VU",
-        "Alpha-3 code": "VUT",
-        "English short name": "Vanuatu",
-        "French short name": "Vanuatu (le)",
-        "Numeric": "548"
-    },
-    {
-        "Alpha-2 code": "VE",
-        "Alpha-3 code": "VEN",
-        "English short name": "Venezuela (Bolivarian Republic of)",
-        "French short name": "Venezuela (République bolivarienne du)",
-        "Numeric": "862"
-    },
-    {
-        "Alpha-2 code": "VN",
-        "Alpha-3 code": "VNM",
-        "English short name": "Viet Nam",
-        "French short name": "Viet Nam (le)",
-        "Numeric": "704"
-    },
-    {
-        "Alpha-2 code": "VG",
-        "Alpha-3 code": "VGB",
-        "English short name": "Virgin Islands (British)",
-        "French short name": "Vierges britanniques (les Îles)",
-        "Numeric": "092"
-    },
-    {
-        "Alpha-2 code": "VI",
-        "Alpha-3 code": "VIR",
-        "English short name": "Virgin Islands (U.S.)",
-        "French short name": "Vierges des États-Unis (les Îles)",
-        "Numeric": "850"
-    },
-    {
-        "Alpha-2 code": "WF",
-        "Alpha-3 code": "WLF",
-        "English short name": "Wallis and Futuna",
-        "French short name": "Wallis-et-Futuna ",
-        "Numeric": "876"
-    },
-    {
-        "Alpha-2 code": "EH",
-        "Alpha-3 code": "ESH",
-        "English short name": "Western Sahara*",
-        "French short name": "Sahara occidental (le)*",
-        "Numeric": "732"
-    },
-    {
-        "Alpha-2 code": "YE",
-        "Alpha-3 code": "YEM",
-        "English short name": "Yemen",
-        "French short name": "Yémen (le)",
-        "Numeric": "887"
-    },
-    {
-        "Alpha-2 code": "ZM",
-        "Alpha-3 code": "ZMB",
-        "English short name": "Zambia",
-        "French short name": "Zambie (la)",
-        "Numeric": "894"
-    },
-    {
-        "Alpha-2 code": "ZW",
-        "Alpha-3 code": "ZWE",
-        "English short name": "Zimbabwe",
-        "French short name": "Zimbabwe (le)",
-        "Numeric": "716"
-    },
-    {
-        "Alpha-2 code": "AX",
-        "Alpha-3 code": "ALA",
-        "English short name": "Åland Islands",
-        "French short name": "Åland(les Îles)",
-        "Numeric": "248"
-    }
+  {
+    "Alpha-2 code": "AF",
+    "Alpha-3 code": "AFG",
+    "English short name": "Afghanistan",
+    "French short name": "Afghanistan (l')",
+    "Numeric": "004"
+  },
+  {
+    "Alpha-2 code": "AL",
+    "Alpha-3 code": "ALB",
+    "English short name": "Albania",
+    "French short name": "Albanie (l')",
+    "Numeric": "008"
+  },
+  {
+    "Alpha-2 code": "AQ",
+    "Alpha-3 code": "ATA",
+    "English short name": "Antarctica",
+    "French short name": "Antarctique (l')",
+    "Numeric": "010"
+  },
+  {
+    "Alpha-2 code": "DZ",
+    "Alpha-3 code": "DZA",
+    "English short name": "Algeria",
+    "French short name": "Algérie (l')",
+    "Numeric": "012"
+  },
+  {
+    "Alpha-2 code": "AS",
+    "Alpha-3 code": "ASM",
+    "English short name": "American Samoa",
+    "French short name": "Samoa américaines (les)",
+    "Numeric": "016"
+  },
+  {
+    "Alpha-2 code": "AD",
+    "Alpha-3 code": "AND",
+    "English short name": "Andorra",
+    "French short name": "Andorre (l')",
+    "Numeric": "020"
+  },
+  {
+    "Alpha-2 code": "AO",
+    "Alpha-3 code": "AGO",
+    "English short name": "Angola",
+    "French short name": "Angola (l')",
+    "Numeric": "024"
+  },
+  {
+    "Alpha-2 code": "AG",
+    "Alpha-3 code": "ATG",
+    "English short name": "Antigua and Barbuda",
+    "French short name": "Antigua-et-Barbuda",
+    "Numeric": "028"
+  },
+  {
+    "Alpha-2 code": "AZ",
+    "Alpha-3 code": "AZE",
+    "English short name": "Azerbaijan",
+    "French short name": "Azerbaïdjan (l')",
+    "Numeric": "031"
+  },
+  {
+    "Alpha-2 code": "AR",
+    "Alpha-3 code": "ARG",
+    "English short name": "Argentina",
+    "French short name": "Argentine (l')",
+    "Numeric": "032"
+  },
+  {
+    "Alpha-2 code": "AU",
+    "Alpha-3 code": "AUS",
+    "English short name": "Australia",
+    "French short name": "Australie (l')",
+    "Numeric": "036"
+  },
+  {
+    "Alpha-2 code": "AT",
+    "Alpha-3 code": "AUT",
+    "English short name": "Austria",
+    "French short name": "Autriche (l')",
+    "Numeric": "040"
+  },
+  {
+    "Alpha-2 code": "BS",
+    "Alpha-3 code": "BHS",
+    "English short name": "Bahamas (the)",
+    "French short name": "Bahamas (les)",
+    "Numeric": "044"
+  },
+  {
+    "Alpha-2 code": "BH",
+    "Alpha-3 code": "BHR",
+    "English short name": "Bahrain",
+    "French short name": "Bahreïn",
+    "Numeric": "048"
+  },
+  {
+    "Alpha-2 code": "BD",
+    "Alpha-3 code": "BGD",
+    "English short name": "Bangladesh",
+    "French short name": "Bangladesh (le)",
+    "Numeric": "050"
+  },
+  {
+    "Alpha-2 code": "AM",
+    "Alpha-3 code": "ARM",
+    "English short name": "Armenia",
+    "French short name": "Arménie (l')",
+    "Numeric": "051"
+  },
+  {
+    "Alpha-2 code": "BB",
+    "Alpha-3 code": "BRB",
+    "English short name": "Barbados",
+    "French short name": "Barbade (la)",
+    "Numeric": "052"
+  },
+  {
+    "Alpha-2 code": "BE",
+    "Alpha-3 code": "BEL",
+    "English short name": "Belgium",
+    "French short name": "Belgique (la)",
+    "Numeric": "056"
+  },
+  {
+    "Alpha-2 code": "BM",
+    "Alpha-3 code": "BMU",
+    "English short name": "Bermuda",
+    "French short name": "Bermudes (les)",
+    "Numeric": "060"
+  },
+  {
+    "Alpha-2 code": "BT",
+    "Alpha-3 code": "BTN",
+    "English short name": "Bhutan",
+    "French short name": "Bhoutan (le)",
+    "Numeric": "064"
+  },
+  {
+    "Alpha-2 code": "BO",
+    "Alpha-3 code": "BOL",
+    "English short name": "Bolivia (Plurinational State of)",
+    "French short name": "Bolivie (État plurinational de)",
+    "Numeric": "068"
+  },
+  {
+    "Alpha-2 code": "BA",
+    "Alpha-3 code": "BIH",
+    "English short name": "Bosnia and Herzegovina",
+    "French short name": "Bosnie-Herzégovine (la)",
+    "Numeric": "070"
+  },
+  {
+    "Alpha-2 code": "BW",
+    "Alpha-3 code": "BWA",
+    "English short name": "Botswana",
+    "French short name": "Botswana (le)",
+    "Numeric": "072"
+  },
+  {
+    "Alpha-2 code": "BV",
+    "Alpha-3 code": "BVT",
+    "English short name": "Bouvet Island",
+    "French short name": "Bouvet (l'Île)",
+    "Numeric": "074"
+  },
+  {
+    "Alpha-2 code": "BR",
+    "Alpha-3 code": "BRA",
+    "English short name": "Brazil",
+    "French short name": "Brésil (le)",
+    "Numeric": "076"
+  },
+  {
+    "Alpha-2 code": "BZ",
+    "Alpha-3 code": "BLZ",
+    "English short name": "Belize",
+    "French short name": "Belize (le)",
+    "Numeric": "084"
+  },
+  {
+    "Alpha-2 code": "IO",
+    "Alpha-3 code": "IOT",
+    "English short name": "British Indian Ocean Territory (the)",
+    "French short name": "Indien (le Territoire britannique de l'océan)",
+    "Numeric": "086"
+  },
+  {
+    "Alpha-2 code": "SB",
+    "Alpha-3 code": "SLB",
+    "English short name": "Solomon Islands",
+    "French short name": "Salomon (les Îles)",
+    "Numeric": "090"
+  },
+  {
+    "Alpha-2 code": "VG",
+    "Alpha-3 code": "VGB",
+    "English short name": "Virgin Islands (British)",
+    "French short name": "Vierges britanniques (les Îles)",
+    "Numeric": "092"
+  },
+  {
+    "Alpha-2 code": "BN",
+    "Alpha-3 code": "BRN",
+    "English short name": "Brunei Darussalam",
+    "French short name": "Brunéi Darussalam (le)",
+    "Numeric": "096"
+  },
+  {
+    "Alpha-2 code": "BG",
+    "Alpha-3 code": "BGR",
+    "English short name": "Bulgaria",
+    "French short name": "Bulgarie (la)",
+    "Numeric": "100"
+  },
+  {
+    "Alpha-2 code": "MM",
+    "Alpha-3 code": "MMR",
+    "English short name": "Myanmar",
+    "French short name": "Myanmar (le)",
+    "Numeric": "104"
+  },
+  {
+    "Alpha-2 code": "BI",
+    "Alpha-3 code": "BDI",
+    "English short name": "Burundi",
+    "French short name": "Burundi (le)",
+    "Numeric": "108"
+  },
+  {
+    "Alpha-2 code": "BY",
+    "Alpha-3 code": "BLR",
+    "English short name": "Belarus",
+    "French short name": "Bélarus (le)",
+    "Numeric": "112"
+  },
+  {
+    "Alpha-2 code": "KH",
+    "Alpha-3 code": "KHM",
+    "English short name": "Cambodia",
+    "French short name": "Cambodge (le)",
+    "Numeric": "116"
+  },
+  {
+    "Alpha-2 code": "CM",
+    "Alpha-3 code": "CMR",
+    "English short name": "Cameroon",
+    "French short name": "Cameroun (le)",
+    "Numeric": "120"
+  },
+  {
+    "Alpha-2 code": "CA",
+    "Alpha-3 code": "CAN",
+    "English short name": "Canada",
+    "French short name": "Canada (le)",
+    "Numeric": "124"
+  },
+  {
+    "Alpha-2 code": "CV",
+    "Alpha-3 code": "CPV",
+    "English short name": "Cabo Verde",
+    "French short name": "Cabo Verde",
+    "Numeric": "132"
+  },
+  {
+    "Alpha-2 code": "KY",
+    "Alpha-3 code": "CYM",
+    "English short name": "Cayman Islands (the)",
+    "French short name": "Caïmans (les Îles)",
+    "Numeric": "136"
+  },
+  {
+    "Alpha-2 code": "CF",
+    "Alpha-3 code": "CAF",
+    "English short name": "Central African Republic (the)",
+    "French short name": "République centrafricaine (la)",
+    "Numeric": "140"
+  },
+  {
+    "Alpha-2 code": "LK",
+    "Alpha-3 code": "LKA",
+    "English short name": "Sri Lanka",
+    "French short name": "Sri Lanka",
+    "Numeric": "144"
+  },
+  {
+    "Alpha-2 code": "TD",
+    "Alpha-3 code": "TCD",
+    "English short name": "Chad",
+    "French short name": "Tchad (le)",
+    "Numeric": "148"
+  },
+  {
+    "Alpha-2 code": "CL",
+    "Alpha-3 code": "CHL",
+    "English short name": "Chile",
+    "French short name": "Chili (le)",
+    "Numeric": "152"
+  },
+  {
+    "Alpha-2 code": "CN",
+    "Alpha-3 code": "CHN",
+    "English short name": "China",
+    "French short name": "Chine (la)",
+    "Numeric": "156"
+  },
+  {
+    "Alpha-2 code": "TW",
+    "Alpha-3 code": "TWN",
+    "English short name": "Taiwan (Province of China)",
+    "French short name": "Taïwan (Province de Chine)",
+    "Numeric": "158"
+  },
+  {
+    "Alpha-2 code": "CX",
+    "Alpha-3 code": "CXR",
+    "English short name": "Christmas Island",
+    "French short name": "Christmas (l'Île)",
+    "Numeric": "162"
+  },
+  {
+    "Alpha-2 code": "CC",
+    "Alpha-3 code": "CCK",
+    "English short name": "Cocos (Keeling) Islands (the)",
+    "French short name": "Cocos (les Îles)/ Keeling (les Îles)",
+    "Numeric": "166"
+  },
+  {
+    "Alpha-2 code": "CO",
+    "Alpha-3 code": "COL",
+    "English short name": "Colombia",
+    "French short name": "Colombie (la)",
+    "Numeric": "170"
+  },
+  {
+    "Alpha-2 code": "KM",
+    "Alpha-3 code": "COM",
+    "English short name": "Comoros (the)",
+    "French short name": "Comores (les)",
+    "Numeric": "174"
+  },
+  {
+    "Alpha-2 code": "YT",
+    "Alpha-3 code": "MYT",
+    "English short name": "Mayotte",
+    "French short name": "Mayotte",
+    "Numeric": "175"
+  },
+  {
+    "Alpha-2 code": "CG",
+    "Alpha-3 code": "COG",
+    "English short name": "Congo (the)",
+    "French short name": "Congo (le)",
+    "Numeric": "178"
+  },
+  {
+    "Alpha-2 code": "CD",
+    "Alpha-3 code": "COD",
+    "English short name": "Congo (the Democratic Republic of the)",
+    "French short name": "Congo (la République démocratique du)",
+    "Numeric": "180"
+  },
+  {
+    "Alpha-2 code": "CK",
+    "Alpha-3 code": "COK",
+    "English short name": "Cook Islands (the)",
+    "French short name": "Cook (les Îles)",
+    "Numeric": "184"
+  },
+  {
+    "Alpha-2 code": "CR",
+    "Alpha-3 code": "CRI",
+    "English short name": "Costa Rica",
+    "French short name": "Costa Rica (le)",
+    "Numeric": "188"
+  },
+  {
+    "Alpha-2 code": "HR",
+    "Alpha-3 code": "HRV",
+    "English short name": "Croatia",
+    "French short name": "Croatie (la)",
+    "Numeric": "191"
+  },
+  {
+    "Alpha-2 code": "CU",
+    "Alpha-3 code": "CUB",
+    "English short name": "Cuba",
+    "French short name": "Cuba",
+    "Numeric": "192"
+  },
+  {
+    "Alpha-2 code": "CY",
+    "Alpha-3 code": "CYP",
+    "English short name": "Cyprus",
+    "French short name": "Chypre",
+    "Numeric": "196"
+  },
+  {
+    "Alpha-2 code": "CZ",
+    "Alpha-3 code": "CZE",
+    "English short name": "Czechia",
+    "French short name": "Tchéquie (la)",
+    "Numeric": "203"
+  },
+  {
+    "Alpha-2 code": "BJ",
+    "Alpha-3 code": "BEN",
+    "English short name": "Benin",
+    "French short name": "Bénin (le)",
+    "Numeric": "204"
+  },
+  {
+    "Alpha-2 code": "DK",
+    "Alpha-3 code": "DNK",
+    "English short name": "Denmark",
+    "French short name": "Danemark (le)",
+    "Numeric": "208"
+  },
+  {
+    "Alpha-2 code": "DM",
+    "Alpha-3 code": "DMA",
+    "English short name": "Dominica",
+    "French short name": "Dominique (la)",
+    "Numeric": "212"
+  },
+  {
+    "Alpha-2 code": "DO",
+    "Alpha-3 code": "DOM",
+    "English short name": "Dominican Republic (the)",
+    "French short name": "dominicaine (la République)",
+    "Numeric": "214"
+  },
+  {
+    "Alpha-2 code": "EC",
+    "Alpha-3 code": "ECU",
+    "English short name": "Ecuador",
+    "French short name": "Équateur (l')",
+    "Numeric": "218"
+  },
+  {
+    "Alpha-2 code": "SV",
+    "Alpha-3 code": "SLV",
+    "English short name": "El Salvador",
+    "French short name": "El Salvador",
+    "Numeric": "222"
+  },
+  {
+    "Alpha-2 code": "GQ",
+    "Alpha-3 code": "GNQ",
+    "English short name": "Equatorial Guinea",
+    "French short name": "Guinée équatoriale (la)",
+    "Numeric": "226"
+  },
+  {
+    "Alpha-2 code": "ET",
+    "Alpha-3 code": "ETH",
+    "English short name": "Ethiopia",
+    "French short name": "Éthiopie (l')",
+    "Numeric": "231"
+  },
+  {
+    "Alpha-2 code": "ER",
+    "Alpha-3 code": "ERI",
+    "English short name": "Eritrea",
+    "French short name": "Érythrée (l')",
+    "Numeric": "232"
+  },
+  {
+    "Alpha-2 code": "EE",
+    "Alpha-3 code": "EST",
+    "English short name": "Estonia",
+    "French short name": "Estonie (l')",
+    "Numeric": "233"
+  },
+  {
+    "Alpha-2 code": "FO",
+    "Alpha-3 code": "FRO",
+    "English short name": "Faroe Islands (the)",
+    "French short name": "Féroé (les Îles)",
+    "Numeric": "234"
+  },
+  {
+    "Alpha-2 code": "FK",
+    "Alpha-3 code": "FLK",
+    "English short name": "Falkland Islands (the) [Malvinas]",
+    "French short name": "Falkland (les Îles)/Malouines (les Îles)",
+    "Numeric": "238"
+  },
+  {
+    "Alpha-2 code": "GS",
+    "Alpha-3 code": "SGS",
+    "English short name": "South Georgia and the South Sandwich Islands",
+    "French short name": "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
+    "Numeric": "239"
+  },
+  {
+    "Alpha-2 code": "FJ",
+    "Alpha-3 code": "FJI",
+    "English short name": "Fiji",
+    "French short name": "Fidji (les)",
+    "Numeric": "242"
+  },
+  {
+    "Alpha-2 code": "FI",
+    "Alpha-3 code": "FIN",
+    "English short name": "Finland",
+    "French short name": "Finlande (la)",
+    "Numeric": "246"
+  },
+  {
+    "Alpha-2 code": "AX",
+    "Alpha-3 code": "ALA",
+    "English short name": "Åland Islands",
+    "French short name": "Åland(les Îles)",
+    "Numeric": "248"
+  },
+  {
+    "Alpha-2 code": "FR",
+    "Alpha-3 code": "FRA",
+    "English short name": "France",
+    "French short name": "France (la)",
+    "Numeric": "250"
+  },
+  {
+    "Alpha-2 code": "GF",
+    "Alpha-3 code": "GUF",
+    "English short name": "French Guiana",
+    "French short name": "Guyane française (la )",
+    "Numeric": "254"
+  },
+  {
+    "Alpha-2 code": "PF",
+    "Alpha-3 code": "PYF",
+    "English short name": "French Polynesia",
+    "French short name": "Polynésie française (la)",
+    "Numeric": "258"
+  },
+  {
+    "Alpha-2 code": "TF",
+    "Alpha-3 code": "ATF",
+    "English short name": "French Southern Territories (the)",
+    "French short name": "Terres australes françaises (les)",
+    "Numeric": "260"
+  },
+  {
+    "Alpha-2 code": "DJ",
+    "Alpha-3 code": "DJI",
+    "English short name": "Djibouti",
+    "French short name": "Djibouti",
+    "Numeric": "262"
+  },
+  {
+    "Alpha-2 code": "GA",
+    "Alpha-3 code": "GAB",
+    "English short name": "Gabon",
+    "French short name": "Gabon (le)",
+    "Numeric": "266"
+  },
+  {
+    "Alpha-2 code": "GE",
+    "Alpha-3 code": "GEO",
+    "English short name": "Georgia",
+    "French short name": "Géorgie (la)",
+    "Numeric": "268"
+  },
+  {
+    "Alpha-2 code": "GM",
+    "Alpha-3 code": "GMB",
+    "English short name": "Gambia (the)",
+    "French short name": "Gambie (la)",
+    "Numeric": "270"
+  },
+  {
+    "Alpha-2 code": "PS",
+    "Alpha-3 code": "PSE",
+    "English short name": "Palestine, State of",
+    "French short name": "Palestine, État de",
+    "Numeric": "275"
+  },
+  {
+    "Alpha-2 code": "DE",
+    "Alpha-3 code": "DEU",
+    "English short name": "Germany",
+    "French short name": "Allemagne (l')",
+    "Numeric": "276"
+  },
+  {
+    "Alpha-2 code": "GH",
+    "Alpha-3 code": "GHA",
+    "English short name": "Ghana",
+    "French short name": "Ghana (le)",
+    "Numeric": "288"
+  },
+  {
+    "Alpha-2 code": "GI",
+    "Alpha-3 code": "GIB",
+    "English short name": "Gibraltar",
+    "French short name": "Gibraltar",
+    "Numeric": "292"
+  },
+  {
+    "Alpha-2 code": "KI",
+    "Alpha-3 code": "KIR",
+    "English short name": "Kiribati",
+    "French short name": "Kiribati",
+    "Numeric": "296"
+  },
+  {
+    "Alpha-2 code": "GR",
+    "Alpha-3 code": "GRC",
+    "English short name": "Greece",
+    "French short name": "Grèce (la)",
+    "Numeric": "300"
+  },
+  {
+    "Alpha-2 code": "GL",
+    "Alpha-3 code": "GRL",
+    "English short name": "Greenland",
+    "French short name": "Groenland (le)",
+    "Numeric": "304"
+  },
+  {
+    "Alpha-2 code": "GD",
+    "Alpha-3 code": "GRD",
+    "English short name": "Grenada",
+    "French short name": "Grenade (la)",
+    "Numeric": "308"
+  },
+  {
+    "Alpha-2 code": "GP",
+    "Alpha-3 code": "GLP",
+    "English short name": "Guadeloupe",
+    "French short name": "Guadeloupe (la)",
+    "Numeric": "312"
+  },
+  {
+    "Alpha-2 code": "GU",
+    "Alpha-3 code": "GUM",
+    "English short name": "Guam",
+    "French short name": "Guam",
+    "Numeric": "316"
+  },
+  {
+    "Alpha-2 code": "GT",
+    "Alpha-3 code": "GTM",
+    "English short name": "Guatemala",
+    "French short name": "Guatemala (le)",
+    "Numeric": "320"
+  },
+  {
+    "Alpha-2 code": "GN",
+    "Alpha-3 code": "GIN",
+    "English short name": "Guinea",
+    "French short name": "Guinée (la)",
+    "Numeric": "324"
+  },
+  {
+    "Alpha-2 code": "GY",
+    "Alpha-3 code": "GUY",
+    "English short name": "Guyana",
+    "French short name": "Guyana (le)",
+    "Numeric": "328"
+  },
+  {
+    "Alpha-2 code": "HT",
+    "Alpha-3 code": "HTI",
+    "English short name": "Haiti",
+    "French short name": "Haïti",
+    "Numeric": "332"
+  },
+  {
+    "Alpha-2 code": "HM",
+    "Alpha-3 code": "HMD",
+    "English short name": "Heard Island and McDonald Islands",
+    "French short name": "Heard-et-Îles MacDonald (l'Île)",
+    "Numeric": "334"
+  },
+  {
+    "Alpha-2 code": "VA",
+    "Alpha-3 code": "VAT",
+    "English short name": "Holy See (the)",
+    "French short name": "Saint-Siège (le)",
+    "Numeric": "336"
+  },
+  {
+    "Alpha-2 code": "HN",
+    "Alpha-3 code": "HND",
+    "English short name": "Honduras",
+    "French short name": "Honduras (le)",
+    "Numeric": "340"
+  },
+  {
+    "Alpha-2 code": "HK",
+    "Alpha-3 code": "HKG",
+    "English short name": "Hong Kong",
+    "French short name": "Hong Kong",
+    "Numeric": "344"
+  },
+  {
+    "Alpha-2 code": "HU",
+    "Alpha-3 code": "HUN",
+    "English short name": "Hungary",
+    "French short name": "Hongrie (la)",
+    "Numeric": "348"
+  },
+  {
+    "Alpha-2 code": "IS",
+    "Alpha-3 code": "ISL",
+    "English short name": "Iceland",
+    "French short name": "Islande (l')",
+    "Numeric": "352"
+  },
+  {
+    "Alpha-2 code": "IN",
+    "Alpha-3 code": "IND",
+    "English short name": "India",
+    "French short name": "Inde (l')",
+    "Numeric": "356"
+  },
+  {
+    "Alpha-2 code": "ID",
+    "Alpha-3 code": "IDN",
+    "English short name": "Indonesia",
+    "French short name": "Indonésie (l')",
+    "Numeric": "360"
+  },
+  {
+    "Alpha-2 code": "IR",
+    "Alpha-3 code": "IRN",
+    "English short name": "Iran (Islamic Republic of)",
+    "French short name": "Iran (République Islamique d')",
+    "Numeric": "364"
+  },
+  {
+    "Alpha-2 code": "IQ",
+    "Alpha-3 code": "IRQ",
+    "English short name": "Iraq",
+    "French short name": "Iraq (l')",
+    "Numeric": "368"
+  },
+  {
+    "Alpha-2 code": "IE",
+    "Alpha-3 code": "IRL",
+    "English short name": "Ireland",
+    "French short name": "Irlande (l')",
+    "Numeric": "372"
+  },
+  {
+    "Alpha-2 code": "IL",
+    "Alpha-3 code": "ISR",
+    "English short name": "Israel",
+    "French short name": "Israël",
+    "Numeric": "376"
+  },
+  {
+    "Alpha-2 code": "IT",
+    "Alpha-3 code": "ITA",
+    "English short name": "Italy",
+    "French short name": "Italie (l')",
+    "Numeric": "380"
+  },
+  {
+    "Alpha-2 code": "CI",
+    "Alpha-3 code": "CIV",
+    "English short name": "Côte d'Ivoire",
+    "French short name": "Côte d'Ivoire (la)",
+    "Numeric": "384"
+  },
+  {
+    "Alpha-2 code": "JM",
+    "Alpha-3 code": "JAM",
+    "English short name": "Jamaica",
+    "French short name": "Jamaïque (la)",
+    "Numeric": "388"
+  },
+  {
+    "Alpha-2 code": "JP",
+    "Alpha-3 code": "JPN",
+    "English short name": "Japan",
+    "French short name": "Japon (le)",
+    "Numeric": "392"
+  },
+  {
+    "Alpha-2 code": "KZ",
+    "Alpha-3 code": "KAZ",
+    "English short name": "Kazakhstan",
+    "French short name": "Kazakhstan (le)",
+    "Numeric": "398"
+  },
+  {
+    "Alpha-2 code": "JO",
+    "Alpha-3 code": "JOR",
+    "English short name": "Jordan",
+    "French short name": "Jordanie (la)",
+    "Numeric": "400"
+  },
+  {
+    "Alpha-2 code": "KE",
+    "Alpha-3 code": "KEN",
+    "English short name": "Kenya",
+    "French short name": "Kenya (le)",
+    "Numeric": "404"
+  },
+  {
+    "Alpha-2 code": "KP",
+    "Alpha-3 code": "PRK",
+    "English short name": "Korea (the Democratic People's Republic of)",
+    "French short name": "Corée (la République populaire démocratique de)",
+    "Numeric": "408"
+  },
+  {
+    "Alpha-2 code": "KR",
+    "Alpha-3 code": "KOR",
+    "English short name": "Korea (the Republic of)",
+    "French short name": "Corée (la République de)",
+    "Numeric": "410"
+  },
+  {
+    "Alpha-2 code": "KW",
+    "Alpha-3 code": "KWT",
+    "English short name": "Kuwait",
+    "French short name": "Koweït (le)",
+    "Numeric": "414"
+  },
+  {
+    "Alpha-2 code": "KG",
+    "Alpha-3 code": "KGZ",
+    "English short name": "Kyrgyzstan",
+    "French short name": "Kirghizistan (le)",
+    "Numeric": "417"
+  },
+  {
+    "Alpha-2 code": "LA",
+    "Alpha-3 code": "LAO",
+    "English short name": "Lao People's Democratic Republic (the)",
+    "French short name": "Lao (la République démocratique populaire)",
+    "Numeric": "418"
+  },
+  {
+    "Alpha-2 code": "LB",
+    "Alpha-3 code": "LBN",
+    "English short name": "Lebanon",
+    "French short name": "Liban (le)",
+    "Numeric": "422"
+  },
+  {
+    "Alpha-2 code": "LS",
+    "Alpha-3 code": "LSO",
+    "English short name": "Lesotho",
+    "French short name": "Lesotho (le)",
+    "Numeric": "426"
+  },
+  {
+    "Alpha-2 code": "LV",
+    "Alpha-3 code": "LVA",
+    "English short name": "Latvia",
+    "French short name": "Lettonie (la)",
+    "Numeric": "428"
+  },
+  {
+    "Alpha-2 code": "LR",
+    "Alpha-3 code": "LBR",
+    "English short name": "Liberia",
+    "French short name": "Libéria (le)",
+    "Numeric": "430"
+  },
+  {
+    "Alpha-2 code": "LY",
+    "Alpha-3 code": "LBY",
+    "English short name": "Libya",
+    "French short name": "Libye (la)",
+    "Numeric": "434"
+  },
+  {
+    "Alpha-2 code": "LI",
+    "Alpha-3 code": "LIE",
+    "English short name": "Liechtenstein",
+    "French short name": "Liechtenstein (le)",
+    "Numeric": "438"
+  },
+  {
+    "Alpha-2 code": "LT",
+    "Alpha-3 code": "LTU",
+    "English short name": "Lithuania",
+    "French short name": "Lituanie (la)",
+    "Numeric": "440"
+  },
+  {
+    "Alpha-2 code": "LU",
+    "Alpha-3 code": "LUX",
+    "English short name": "Luxembourg",
+    "French short name": "Luxembourg (le)",
+    "Numeric": "442"
+  },
+  {
+    "Alpha-2 code": "MO",
+    "Alpha-3 code": "MAC",
+    "English short name": "Macao",
+    "French short name": "Macao",
+    "Numeric": "446"
+  },
+  {
+    "Alpha-2 code": "MG",
+    "Alpha-3 code": "MDG",
+    "English short name": "Madagascar",
+    "French short name": "Madagascar",
+    "Numeric": "450"
+  },
+  {
+    "Alpha-2 code": "MW",
+    "Alpha-3 code": "MWI",
+    "English short name": "Malawi",
+    "French short name": "Malawi (le)",
+    "Numeric": "454"
+  },
+  {
+    "Alpha-2 code": "MY",
+    "Alpha-3 code": "MYS",
+    "English short name": "Malaysia",
+    "French short name": "Malaisie (la)",
+    "Numeric": "458"
+  },
+  {
+    "Alpha-2 code": "MV",
+    "Alpha-3 code": "MDV",
+    "English short name": "Maldives",
+    "French short name": "Maldives (les)",
+    "Numeric": "462"
+  },
+  {
+    "Alpha-2 code": "ML",
+    "Alpha-3 code": "MLI",
+    "English short name": "Mali",
+    "French short name": "Mali (le)",
+    "Numeric": "466"
+  },
+  {
+    "Alpha-2 code": "MT",
+    "Alpha-3 code": "MLT",
+    "English short name": "Malta",
+    "French short name": "Malte",
+    "Numeric": "470"
+  },
+  {
+    "Alpha-2 code": "MQ",
+    "Alpha-3 code": "MTQ",
+    "English short name": "Martinique",
+    "French short name": "Martinique (la)",
+    "Numeric": "474"
+  },
+  {
+    "Alpha-2 code": "MR",
+    "Alpha-3 code": "MRT",
+    "English short name": "Mauritania",
+    "French short name": "Mauritanie (la)",
+    "Numeric": "478"
+  },
+  {
+    "Alpha-2 code": "MU",
+    "Alpha-3 code": "MUS",
+    "English short name": "Mauritius",
+    "French short name": "Maurice",
+    "Numeric": "480"
+  },
+  {
+    "Alpha-2 code": "MX",
+    "Alpha-3 code": "MEX",
+    "English short name": "Mexico",
+    "French short name": "Mexique (le)",
+    "Numeric": "484"
+  },
+  {
+    "Alpha-2 code": "MC",
+    "Alpha-3 code": "MCO",
+    "English short name": "Monaco",
+    "French short name": "Monaco",
+    "Numeric": "492"
+  },
+  {
+    "Alpha-2 code": "MN",
+    "Alpha-3 code": "MNG",
+    "English short name": "Mongolia",
+    "French short name": "Mongolie (la)",
+    "Numeric": "496"
+  },
+  {
+    "Alpha-2 code": "MD",
+    "Alpha-3 code": "MDA",
+    "English short name": "Moldova (the Republic of)",
+    "French short name": "Moldova (la République de)",
+    "Numeric": "498"
+  },
+  {
+    "Alpha-2 code": "ME",
+    "Alpha-3 code": "MNE",
+    "English short name": "Montenegro",
+    "French short name": "Monténégro (le)",
+    "Numeric": "499"
+  },
+  {
+    "Alpha-2 code": "MS",
+    "Alpha-3 code": "MSR",
+    "English short name": "Montserrat",
+    "French short name": "Montserrat",
+    "Numeric": "500"
+  },
+  {
+    "Alpha-2 code": "MA",
+    "Alpha-3 code": "MAR",
+    "English short name": "Morocco",
+    "French short name": "Maroc (le)",
+    "Numeric": "504"
+  },
+  {
+    "Alpha-2 code": "MZ",
+    "Alpha-3 code": "MOZ",
+    "English short name": "Mozambique",
+    "French short name": "Mozambique (le)",
+    "Numeric": "508"
+  },
+  {
+    "Alpha-2 code": "OM",
+    "Alpha-3 code": "OMN",
+    "English short name": "Oman",
+    "French short name": "Oman",
+    "Numeric": "512"
+  },
+  {
+    "Alpha-2 code": "NA",
+    "Alpha-3 code": "NAM",
+    "English short name": "Namibia",
+    "French short name": "Namibie (la)",
+    "Numeric": "516"
+  },
+  {
+    "Alpha-2 code": "NR",
+    "Alpha-3 code": "NRU",
+    "English short name": "Nauru",
+    "French short name": "Nauru",
+    "Numeric": "520"
+  },
+  {
+    "Alpha-2 code": "NP",
+    "Alpha-3 code": "NPL",
+    "English short name": "Nepal",
+    "French short name": "Népal (le)",
+    "Numeric": "524"
+  },
+  {
+    "Alpha-2 code": "NL",
+    "Alpha-3 code": "NLD",
+    "English short name": "Netherlands (Kingdom of the)",
+    "French short name": "Pays-Bas (Royaume des)",
+    "Numeric": "528"
+  },
+  {
+    "Alpha-2 code": "CW",
+    "Alpha-3 code": "CUW",
+    "English short name": "Curaçao",
+    "French short name": "Curaçao",
+    "Numeric": "531"
+  },
+  {
+    "Alpha-2 code": "AW",
+    "Alpha-3 code": "ABW",
+    "English short name": "Aruba",
+    "French short name": "Aruba",
+    "Numeric": "533"
+  },
+  {
+    "Alpha-2 code": "SX",
+    "Alpha-3 code": "SXM",
+    "English short name": "Sint Maarten (Dutch part)",
+    "French short name": "Saint-Martin (partie néerlandaise)",
+    "Numeric": "534"
+  },
+  {
+    "Alpha-2 code": "BQ",
+    "Alpha-3 code": "BES",
+    "English short name": "Bonaire, Sint Eustatius and Saba",
+    "French short name": "Bonaire, Saint-Eustache et Saba",
+    "Numeric": "535"
+  },
+  {
+    "Alpha-2 code": "NC",
+    "Alpha-3 code": "NCL",
+    "English short name": "New Caledonia",
+    "French short name": "Nouvelle-Calédonie (la)",
+    "Numeric": "540"
+  },
+  {
+    "Alpha-2 code": "VU",
+    "Alpha-3 code": "VUT",
+    "English short name": "Vanuatu",
+    "French short name": "Vanuatu (le)",
+    "Numeric": "548"
+  },
+  {
+    "Alpha-2 code": "NZ",
+    "Alpha-3 code": "NZL",
+    "English short name": "New Zealand",
+    "French short name": "Nouvelle-Zélande (la)",
+    "Numeric": "554"
+  },
+  {
+    "Alpha-2 code": "NI",
+    "Alpha-3 code": "NIC",
+    "English short name": "Nicaragua",
+    "French short name": "Nicaragua (le)",
+    "Numeric": "558"
+  },
+  {
+    "Alpha-2 code": "NE",
+    "Alpha-3 code": "NER",
+    "English short name": "Niger (the)",
+    "French short name": "Niger (le)",
+    "Numeric": "562"
+  },
+  {
+    "Alpha-2 code": "NG",
+    "Alpha-3 code": "NGA",
+    "English short name": "Nigeria",
+    "French short name": "Nigéria (le)",
+    "Numeric": "566"
+  },
+  {
+    "Alpha-2 code": "NU",
+    "Alpha-3 code": "NIU",
+    "English short name": "Niue",
+    "French short name": "Niue",
+    "Numeric": "570"
+  },
+  {
+    "Alpha-2 code": "NF",
+    "Alpha-3 code": "NFK",
+    "English short name": "Norfolk Island",
+    "French short name": "Norfolk (l'Île)",
+    "Numeric": "574"
+  },
+  {
+    "Alpha-2 code": "NO",
+    "Alpha-3 code": "NOR",
+    "English short name": "Norway",
+    "French short name": "Norvège (la)",
+    "Numeric": "578"
+  },
+  {
+    "Alpha-2 code": "MP",
+    "Alpha-3 code": "MNP",
+    "English short name": "Northern Mariana Islands (the)",
+    "French short name": "Mariannes du Nord (les Îles)",
+    "Numeric": "580"
+  },
+  {
+    "Alpha-2 code": "UM",
+    "Alpha-3 code": "UMI",
+    "English short name": "United States Minor Outlying Islands (the)",
+    "French short name": "Îles mineures éloignées des États-Unis (les)",
+    "Numeric": "581"
+  },
+  {
+    "Alpha-2 code": "FM",
+    "Alpha-3 code": "FSM",
+    "English short name": "Micronesia (Federated States of)",
+    "French short name": "Micronésie (États fédérés de)",
+    "Numeric": "583"
+  },
+  {
+    "Alpha-2 code": "MH",
+    "Alpha-3 code": "MHL",
+    "English short name": "Marshall Islands (the)",
+    "French short name": "Marshall (les Îles)",
+    "Numeric": "584"
+  },
+  {
+    "Alpha-2 code": "PW",
+    "Alpha-3 code": "PLW",
+    "English short name": "Palau",
+    "French short name": "Palaos (les)",
+    "Numeric": "585"
+  },
+  {
+    "Alpha-2 code": "PK",
+    "Alpha-3 code": "PAK",
+    "English short name": "Pakistan",
+    "French short name": "Pakistan (le)",
+    "Numeric": "586"
+  },
+  {
+    "Alpha-2 code": "PA",
+    "Alpha-3 code": "PAN",
+    "English short name": "Panama",
+    "French short name": "Panama (le)",
+    "Numeric": "591"
+  },
+  {
+    "Alpha-2 code": "PG",
+    "Alpha-3 code": "PNG",
+    "English short name": "Papua New Guinea",
+    "French short name": "Papouasie-Nouvelle-Guinée (la)",
+    "Numeric": "598"
+  },
+  {
+    "Alpha-2 code": "PY",
+    "Alpha-3 code": "PRY",
+    "English short name": "Paraguay",
+    "French short name": "Paraguay (le)",
+    "Numeric": "600"
+  },
+  {
+    "Alpha-2 code": "PE",
+    "Alpha-3 code": "PER",
+    "English short name": "Peru",
+    "French short name": "Pérou (le)",
+    "Numeric": "604"
+  },
+  {
+    "Alpha-2 code": "PH",
+    "Alpha-3 code": "PHL",
+    "English short name": "Philippines (the)",
+    "French short name": "Philippines (les)",
+    "Numeric": "608"
+  },
+  {
+    "Alpha-2 code": "PN",
+    "Alpha-3 code": "PCN",
+    "English short name": "Pitcairn",
+    "French short name": "Pitcairn",
+    "Numeric": "612"
+  },
+  {
+    "Alpha-2 code": "PL",
+    "Alpha-3 code": "POL",
+    "English short name": "Poland",
+    "French short name": "Pologne (la)",
+    "Numeric": "616"
+  },
+  {
+    "Alpha-2 code": "PT",
+    "Alpha-3 code": "PRT",
+    "English short name": "Portugal",
+    "French short name": "Portugal (le)",
+    "Numeric": "620"
+  },
+  {
+    "Alpha-2 code": "GW",
+    "Alpha-3 code": "GNB",
+    "English short name": "Guinea-Bissau",
+    "French short name": "Guinée-Bissau (la)",
+    "Numeric": "624"
+  },
+  {
+    "Alpha-2 code": "TL",
+    "Alpha-3 code": "TLS",
+    "English short name": "Timor-Leste",
+    "French short name": "Timor-Leste (le)",
+    "Numeric": "626"
+  },
+  {
+    "Alpha-2 code": "PR",
+    "Alpha-3 code": "PRI",
+    "English short name": "Puerto Rico",
+    "French short name": "Porto Rico",
+    "Numeric": "630"
+  },
+  {
+    "Alpha-2 code": "QA",
+    "Alpha-3 code": "QAT",
+    "English short name": "Qatar",
+    "French short name": "Qatar (le)",
+    "Numeric": "634"
+  },
+  {
+    "Alpha-2 code": "RE",
+    "Alpha-3 code": "REU",
+    "English short name": "Réunion",
+    "French short name": "Réunion (La)",
+    "Numeric": "638"
+  },
+  {
+    "Alpha-2 code": "RO",
+    "Alpha-3 code": "ROU",
+    "English short name": "Romania",
+    "French short name": "Roumanie (la)",
+    "Numeric": "642"
+  },
+  {
+    "Alpha-2 code": "RU",
+    "Alpha-3 code": "RUS",
+    "English short name": "Russian Federation (the)",
+    "French short name": "Russie (la Fédération de)",
+    "Numeric": "643"
+  },
+  {
+    "Alpha-2 code": "RW",
+    "Alpha-3 code": "RWA",
+    "English short name": "Rwanda",
+    "French short name": "Rwanda (le)",
+    "Numeric": "646"
+  },
+  {
+    "Alpha-2 code": "BL",
+    "Alpha-3 code": "BLM",
+    "English short name": "Saint Barthélemy",
+    "French short name": "Saint-Barthélemy",
+    "Numeric": "652"
+  },
+  {
+    "Alpha-2 code": "SH",
+    "Alpha-3 code": "SHN",
+    "English short name": "Saint Helena, Ascension and Tristan da Cunha",
+    "French short name": "Sainte-Hélène, Ascension et Tristan da Cunha",
+    "Numeric": "654"
+  },
+  {
+    "Alpha-2 code": "KN",
+    "Alpha-3 code": "KNA",
+    "English short name": "Saint Kitts and Nevis",
+    "French short name": "Saint-Kitts-et-Nevis",
+    "Numeric": "659"
+  },
+  {
+    "Alpha-2 code": "AI",
+    "Alpha-3 code": "AIA",
+    "English short name": "Anguilla",
+    "French short name": "Anguilla",
+    "Numeric": "660"
+  },
+  {
+    "Alpha-2 code": "LC",
+    "Alpha-3 code": "LCA",
+    "English short name": "Saint Lucia",
+    "French short name": "Sainte-Lucie",
+    "Numeric": "662"
+  },
+  {
+    "Alpha-2 code": "MF",
+    "Alpha-3 code": "MAF",
+    "English short name": "Saint Martin (French part)",
+    "French short name": "Saint-Martin (partie française)",
+    "Numeric": "663"
+  },
+  {
+    "Alpha-2 code": "PM",
+    "Alpha-3 code": "SPM",
+    "English short name": "Saint Pierre and Miquelon",
+    "French short name": "Saint-Pierre-et-Miquelon",
+    "Numeric": "666"
+  },
+  {
+    "Alpha-2 code": "VC",
+    "Alpha-3 code": "VCT",
+    "English short name": "Saint Vincent and the Grenadines",
+    "French short name": "Saint-Vincent-et-les Grenadines",
+    "Numeric": "670"
+  },
+  {
+    "Alpha-2 code": "SM",
+    "Alpha-3 code": "SMR",
+    "English short name": "San Marino",
+    "French short name": "Saint-Marin",
+    "Numeric": "674"
+  },
+  {
+    "Alpha-2 code": "ST",
+    "Alpha-3 code": "STP",
+    "English short name": "Sao Tome and Principe",
+    "French short name": "Sao Tomé-et-Principe",
+    "Numeric": "678"
+  },
+  {
+    "Alpha-2 code": "SA",
+    "Alpha-3 code": "SAU",
+    "English short name": "Saudi Arabia",
+    "French short name": "Arabie saoudite (l')",
+    "Numeric": "682"
+  },
+  {
+    "Alpha-2 code": "SN",
+    "Alpha-3 code": "SEN",
+    "English short name": "Senegal",
+    "French short name": "Sénégal (le)",
+    "Numeric": "686"
+  },
+  {
+    "Alpha-2 code": "RS",
+    "Alpha-3 code": "SRB",
+    "English short name": "Serbia",
+    "French short name": "Serbie (la)",
+    "Numeric": "688"
+  },
+  {
+    "Alpha-2 code": "SC",
+    "Alpha-3 code": "SYC",
+    "English short name": "Seychelles",
+    "French short name": "Seychelles (les)",
+    "Numeric": "690"
+  },
+  {
+    "Alpha-2 code": "SL",
+    "Alpha-3 code": "SLE",
+    "English short name": "Sierra Leone",
+    "French short name": "Sierra Leone (la)",
+    "Numeric": "694"
+  },
+  {
+    "Alpha-2 code": "SG",
+    "Alpha-3 code": "SGP",
+    "English short name": "Singapore",
+    "French short name": "Singapour",
+    "Numeric": "702"
+  },
+  {
+    "Alpha-2 code": "SK",
+    "Alpha-3 code": "SVK",
+    "English short name": "Slovakia",
+    "French short name": "Slovaquie (la)",
+    "Numeric": "703"
+  },
+  {
+    "Alpha-2 code": "VN",
+    "Alpha-3 code": "VNM",
+    "English short name": "Viet Nam",
+    "French short name": "Viet Nam (le)",
+    "Numeric": "704"
+  },
+  {
+    "Alpha-2 code": "SI",
+    "Alpha-3 code": "SVN",
+    "English short name": "Slovenia",
+    "French short name": "Slovénie (la)",
+    "Numeric": "705"
+  },
+  {
+    "Alpha-2 code": "SO",
+    "Alpha-3 code": "SOM",
+    "English short name": "Somalia",
+    "French short name": "Somalie (la)",
+    "Numeric": "706"
+  },
+  {
+    "Alpha-2 code": "ZA",
+    "Alpha-3 code": "ZAF",
+    "English short name": "South Africa",
+    "French short name": "Afrique du Sud (l')",
+    "Numeric": "710"
+  },
+  {
+    "Alpha-2 code": "ZW",
+    "Alpha-3 code": "ZWE",
+    "English short name": "Zimbabwe",
+    "French short name": "Zimbabwe (le)",
+    "Numeric": "716"
+  },
+  {
+    "Alpha-2 code": "ES",
+    "Alpha-3 code": "ESP",
+    "English short name": "Spain",
+    "French short name": "Espagne (l')",
+    "Numeric": "724"
+  },
+  {
+    "Alpha-2 code": "SS",
+    "Alpha-3 code": "SSD",
+    "English short name": "South Sudan",
+    "French short name": "Soudan du Sud (le)",
+    "Numeric": "728"
+  },
+  {
+    "Alpha-2 code": "SD",
+    "Alpha-3 code": "SDN",
+    "English short name": "Sudan (the)",
+    "French short name": "Soudan (le)",
+    "Numeric": "729"
+  },
+  {
+    "Alpha-2 code": "EH",
+    "Alpha-3 code": "ESH",
+    "English short name": "Western Sahara*",
+    "French short name": "Sahara occidental (le)*",
+    "Numeric": "732"
+  },
+  {
+    "Alpha-2 code": "SR",
+    "Alpha-3 code": "SUR",
+    "English short name": "Suriname",
+    "French short name": "Suriname (le)",
+    "Numeric": "740"
+  },
+  {
+    "Alpha-2 code": "SJ",
+    "Alpha-3 code": "SJM",
+    "English short name": "Svalbard and Jan Mayen",
+    "French short name": "Svalbard et l'Île Jan Mayen (le)",
+    "Numeric": "744"
+  },
+  {
+    "Alpha-2 code": "SZ",
+    "Alpha-3 code": "SWZ",
+    "English short name": "Eswatini",
+    "French short name": "Eswatini (l')",
+    "Numeric": "748"
+  },
+  {
+    "Alpha-2 code": "SE",
+    "Alpha-3 code": "SWE",
+    "English short name": "Sweden",
+    "French short name": "Suède (la)",
+    "Numeric": "752"
+  },
+  {
+    "Alpha-2 code": "CH",
+    "Alpha-3 code": "CHE",
+    "English short name": "Switzerland",
+    "French short name": "Suisse (la)",
+    "Numeric": "756"
+  },
+  {
+    "Alpha-2 code": "SY",
+    "Alpha-3 code": "SYR",
+    "English short name": "Syrian Arab Republic (the)",
+    "French short name": "République arabe syrienne (la)",
+    "Numeric": "760"
+  },
+  {
+    "Alpha-2 code": "TJ",
+    "Alpha-3 code": "TJK",
+    "English short name": "Tajikistan",
+    "French short name": "Tadjikistan (le)",
+    "Numeric": "762"
+  },
+  {
+    "Alpha-2 code": "TH",
+    "Alpha-3 code": "THA",
+    "English short name": "Thailand",
+    "French short name": "Thaïlande (la)",
+    "Numeric": "764"
+  },
+  {
+    "Alpha-2 code": "TG",
+    "Alpha-3 code": "TGO",
+    "English short name": "Togo",
+    "French short name": "Togo (le)",
+    "Numeric": "768"
+  },
+  {
+    "Alpha-2 code": "TK",
+    "Alpha-3 code": "TKL",
+    "English short name": "Tokelau",
+    "French short name": "Tokelau (les)",
+    "Numeric": "772"
+  },
+  {
+    "Alpha-2 code": "TO",
+    "Alpha-3 code": "TON",
+    "English short name": "Tonga",
+    "French short name": "Tonga (les)",
+    "Numeric": "776"
+  },
+  {
+    "Alpha-2 code": "TT",
+    "Alpha-3 code": "TTO",
+    "English short name": "Trinidad and Tobago",
+    "French short name": "Trinité-et-Tobago (la)",
+    "Numeric": "780"
+  },
+  {
+    "Alpha-2 code": "AE",
+    "Alpha-3 code": "ARE",
+    "English short name": "United Arab Emirates (the)",
+    "French short name": "Émirats arabes unis (les)",
+    "Numeric": "784"
+  },
+  {
+    "Alpha-2 code": "TN",
+    "Alpha-3 code": "TUN",
+    "English short name": "Tunisia",
+    "French short name": "Tunisie (la)",
+    "Numeric": "788"
+  },
+  {
+    "Alpha-2 code": "TR",
+    "Alpha-3 code": "TUR",
+    "English short name": "Türkiye",
+    "French short name": "Türkiye (la)",
+    "Numeric": "792"
+  },
+  {
+    "Alpha-2 code": "TM",
+    "Alpha-3 code": "TKM",
+    "English short name": "Turkmenistan",
+    "French short name": "Turkménistan (le)",
+    "Numeric": "795"
+  },
+  {
+    "Alpha-2 code": "TC",
+    "Alpha-3 code": "TCA",
+    "English short name": "Turks and Caicos Islands (the)",
+    "French short name": "Turks-et-Caïcos (les Îles)",
+    "Numeric": "796"
+  },
+  {
+    "Alpha-2 code": "TV",
+    "Alpha-3 code": "TUV",
+    "English short name": "Tuvalu",
+    "French short name": "Tuvalu (les)",
+    "Numeric": "798"
+  },
+  {
+    "Alpha-2 code": "UG",
+    "Alpha-3 code": "UGA",
+    "English short name": "Uganda",
+    "French short name": "Ouganda (l')",
+    "Numeric": "800"
+  },
+  {
+    "Alpha-2 code": "UA",
+    "Alpha-3 code": "UKR",
+    "English short name": "Ukraine",
+    "French short name": "Ukraine (l')",
+    "Numeric": "804"
+  },
+  {
+    "Alpha-2 code": "MK",
+    "Alpha-3 code": "MKD",
+    "English short name": "North Macedonia",
+    "French short name": "Macédoine du Nord (la)",
+    "Numeric": "807"
+  },
+  {
+    "Alpha-2 code": "EG",
+    "Alpha-3 code": "EGY",
+    "English short name": "Egypt",
+    "French short name": "Égypte (l')",
+    "Numeric": "818"
+  },
+  {
+    "Alpha-2 code": "GB",
+    "Alpha-3 code": "GBR",
+    "English short name": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "French short name": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
+    "Numeric": "826"
+  },
+  {
+    "Alpha-2 code": "GG",
+    "Alpha-3 code": "GGY",
+    "English short name": "Guernsey",
+    "French short name": "Guernesey",
+    "Numeric": "831"
+  },
+  {
+    "Alpha-2 code": "JE",
+    "Alpha-3 code": "JEY",
+    "English short name": "Jersey",
+    "French short name": "Jersey",
+    "Numeric": "832"
+  },
+  {
+    "Alpha-2 code": "IM",
+    "Alpha-3 code": "IMN",
+    "English short name": "Isle of Man",
+    "French short name": "Île de Man",
+    "Numeric": "833"
+  },
+  {
+    "Alpha-2 code": "TZ",
+    "Alpha-3 code": "TZA",
+    "English short name": "Tanzania, the United Republic of",
+    "French short name": "Tanzanie (la République-Unie de)",
+    "Numeric": "834"
+  },
+  {
+    "Alpha-2 code": "US",
+    "Alpha-3 code": "USA",
+    "English short name": "United States of America (the)",
+    "French short name": "États-Unis d'Amérique (les)",
+    "Numeric": "840"
+  },
+  {
+    "Alpha-2 code": "VI",
+    "Alpha-3 code": "VIR",
+    "English short name": "Virgin Islands (U.S.)",
+    "French short name": "Vierges des États-Unis (les Îles)",
+    "Numeric": "850"
+  },
+  {
+    "Alpha-2 code": "BF",
+    "Alpha-3 code": "BFA",
+    "English short name": "Burkina Faso",
+    "French short name": "Burkina Faso (le)",
+    "Numeric": "854"
+  },
+  {
+    "Alpha-2 code": "UY",
+    "Alpha-3 code": "URY",
+    "English short name": "Uruguay",
+    "French short name": "Uruguay (l')",
+    "Numeric": "858"
+  },
+  {
+    "Alpha-2 code": "UZ",
+    "Alpha-3 code": "UZB",
+    "English short name": "Uzbekistan",
+    "French short name": "Ouzbékistan (l')",
+    "Numeric": "860"
+  },
+  {
+    "Alpha-2 code": "VE",
+    "Alpha-3 code": "VEN",
+    "English short name": "Venezuela (Bolivarian Republic of)",
+    "French short name": "Venezuela (République bolivarienne du)",
+    "Numeric": "862"
+  },
+  {
+    "Alpha-2 code": "WF",
+    "Alpha-3 code": "WLF",
+    "English short name": "Wallis and Futuna",
+    "French short name": "Wallis-et-Futuna ",
+    "Numeric": "876"
+  },
+  {
+    "Alpha-2 code": "WS",
+    "Alpha-3 code": "WSM",
+    "English short name": "Samoa",
+    "French short name": "Samoa (le)",
+    "Numeric": "882"
+  },
+  {
+    "Alpha-2 code": "YE",
+    "Alpha-3 code": "YEM",
+    "English short name": "Yemen",
+    "French short name": "Yémen (le)",
+    "Numeric": "887"
+  },
+  {
+    "Alpha-2 code": "ZM",
+    "Alpha-3 code": "ZMB",
+    "English short name": "Zambia",
+    "French short name": "Zambie (la)",
+    "Numeric": "894"
+  }
 ]

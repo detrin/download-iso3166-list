@@ -37,13 +37,14 @@ jobs:
 
       - name: Run Scraper
         run: |
-          docker run --rm my-scraper-app --mode slow --timeout 60 > countries_new.json
+          sudo apt-get install -y jq
+          docker run --rm my-scraper-app --mode slow --timeout 60 | jq 'sort_by(.Numeric)' > countries_new.json
           echo test >> countries_new.json
 
       - name: Check if countries_new.json differs from countries.json
         id: check_diff
         run: |
-          if cmp -s countries.json countries_new.json; then
+          if [ "$(cat countries.json')" = "$(cat countries.json)" ]; then
             echo "::set-output name=files_differs::false"
           else
             echo "files differ"
