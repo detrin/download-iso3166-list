@@ -37,7 +37,6 @@ jobs:
         run: |
           docker run --rm my-scraper-app --mode slow --timeout 60 > countries_new.json
           echo test >> countries_new.json
-          cat countries_new.json >> $GITHUB_OUTPUT
 
       - name: Check if countries_new.json differs from countries.json
         id: check_diff
