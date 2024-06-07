@@ -64,7 +64,7 @@ jobs:
           new_branch: update-countries-json
           add: 'countries.json'
           github_token: ${{ secrets.GH_PAT }}
-          push: --force
+          push: push --set-upstream origin update-countries-json
         if: steps.check_diff.outputs.files_differs == 'true'
 
       - name: Create Pull Request
