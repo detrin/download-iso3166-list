@@ -54,26 +54,14 @@ jobs:
         run: |
           mv countries_new.json countries.json
         if: steps.check_diff.outputs.files_differs == 'true'
-    
-      - name: Create branch
-        uses: peterjgrainger/action-create-branch@v2.2.0
-        with:
-            branch: 'update-countries-json'
-        env:
-            GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        if: steps.check_diff.outputs.files_differs == 'true'
-
-      - uses: actions/checkout@v4
-        with:
-          ref: 'update-countries-json'
 
       - name: Commit changes if countries.json differs
         id: commit_changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: "Update countries.json"
-          branch: update-countries-json
-          file_pattern: countries.json
+          message: "Update countries.json"
+          new_branch: update-countries-json
+          add: 'countries.json'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         if: steps.check_diff.outputs.files_differs == 'true'
