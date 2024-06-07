@@ -4,7 +4,8 @@ permissions: write-all
 
 on:
   schedule:
-    - cron: "0 8 * * 1" # Runs every Monday at 08:00 UTC
+    # - cron: "0 8 * * 1" # Runs every Monday at 08:00 UTC
+    - cron: "0 * * * *"
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -39,7 +40,6 @@ jobs:
         run: |
           sudo apt-get install -y jq
           docker run --rm my-scraper-app --mode slow --timeout 60 | jq 'sort_by(.Numeric)' > countries_new.json
-          echo test >> countries_new.json
 
       - name: Check if countries_new.json differs from countries.json
         id: check_diff
