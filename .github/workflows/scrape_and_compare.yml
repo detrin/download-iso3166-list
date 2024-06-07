@@ -63,7 +63,6 @@ jobs:
           message: "Update countries.json"
           new_branch: update-countries-json
           add: 'countries.json'
-          github_token: ${{ secrets.GH_PAT }}
           push: --force --set-upstream origin update-countries-json
         if: steps.check_diff.outputs.files_differs == 'true'
 
