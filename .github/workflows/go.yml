@@ -2,8 +2,7 @@ name: Weekly Scrape and Compare
 
 on:
   schedule:
-    #- cron: '0 8 * * 1' # Runs every Monday at 08:00 UTC
-    - cron: '0 * * * *'
+    - cron: '0 8 * * 1' # Runs every Monday at 08:00 UTC
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
