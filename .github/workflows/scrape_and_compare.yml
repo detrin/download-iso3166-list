@@ -1,0 +1,72 @@
+name: Weekly Scrape and Compare
+
+on:
+  schedule:
+    #- cron: '0 8 * * 1' # Runs every Monday at 08:00 UTC
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.22.3'
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Cache Docker layers
+        uses: actions/cache@v2
+        with:
+          path: /tmp/.buildx-cache
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-buildx-
+
+      - name: Build Docker image
+        run: |
+          docker build -t download-iso3166-list .
+
+      - name: Run Scraper
+        run: |
+          docker run --rm download-iso3166-list --mode slow --timeout 60 > countries_new.json
+          echo "test" >> countries_new.json
+
+      - name: Check if countries_new.json differs from countries.json
+        id: check_diff
+        run: |
+          sudo apt-get -y install diffutils
+          if ! diff -q countries_new.json countries.json > /dev/null; then
+            echo "files differ"
+            echo "::set-output name=files_differs::true"
+          else
+            echo "::set-output name=files_differs::false"
+          fi
+
+      - name: Commit and Create Pull Request
+        if: steps.check_diff.outputs.files_differs == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          
+          # Commit and push changes to a new branch
+          git checkout -b update-countries-json
+          mv countries_new.json countries.json
+          git add countries.json
+          git commit -m "Update countries.json"
+          git push -u origin update-countries-json
+
+          # Create a pull request
+          gh pr create \
+            --title "Update countries.json" \
+            --body "This pull request updates countries.json with the latest data." \
+            --base main --head update-countries-json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
