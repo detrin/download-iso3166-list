@@ -49,9 +49,18 @@ jobs:
           fi
 
       - name: Replace countries.json with countries_new.json
-        if: steps.check_diff.outputs.files_differs == 'true'
         run: |
           mv countries_new.json countries.json
+        if: steps.check_diff.outputs.files_differs == 'true'
+    
+      - name: Create branch
+        uses: peterjgrainger/action-create-branch@v2.2.0
+        with:
+            branch: 'update-countries-json'
+        env:
+            GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        if: steps.check_diff.outputs.files_differs == 'true'
+        
 
       - name: Commit changes if countries.json differs
         id: commit_changes
