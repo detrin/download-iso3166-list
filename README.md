@@ -1,4 +1,7 @@
 # download-iso3166-list
+
+[![ISO 3166 Update Check](https://github.com/detrin/download-iso3166-list/actions/workflows/scrape_and_compare.yml/badge.svg)](https://github.com/detrin/download-iso3166-list/actions/workflows/scrape_and_compare.yml)
+
 This is an unofficial CLI tool for fetching the ISO 3166 country list from iso.org. It uses `go` and `chromedp`.
 
 ## Why?
