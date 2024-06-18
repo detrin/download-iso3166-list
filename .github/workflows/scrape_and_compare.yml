@@ -5,7 +5,7 @@ permissions: write-all
 on:
   schedule:
     - cron: "0 8 * * 1"
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -55,15 +55,20 @@ jobs:
           mv countries_new.json countries.json
         if: steps.check_diff.outputs.files_differs == 'true'
 
+      - name: Generate countries.csv from countries.json
+        run: |
+          jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' countries.json > countries.csv
+        if: steps.check_diff.outputs.files_differs == 'true'
+
       - name: Commit changes if countries.json differs
         id: commit_changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Actions
           author_email: noreply@github.com
-          message: "Update countries.json"
+          message: "Update countries.json and countries.json"
           new_branch: update-countries-json
-          add: 'countries.json'
+          add: 'countries.json counties.csv'
         if: steps.check_diff.outputs.files_differs == 'true'
 
       - name: Create Pull Request
