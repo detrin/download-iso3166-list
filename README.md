@@ -33,7 +33,7 @@ docker run --rm -it download-iso3166-list --mode normal --timeout 60
 ```
 The `countries.json` list was generated with
 ```
-docker run --rm -it my-scraper-app -m slow -t 60 | jq 'sort_by(.Numeric)' > countries.json
+docker run --rm -it download-iso3166-list -m slow -t 60 | jq 'sort_by(.Numeric)' > countries.json
 ```
 
 ## TODO
